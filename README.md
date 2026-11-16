@@ -1,6 +1,6 @@
 # Order maintenance and list labeling: implementations and experiments
 
-Companion code for the survey "The Order-Maintenance Problem and Online List
+Companion code for the survey "Order Maintenance and Online List
 Labeling: A Survey with Implementations and Experiments" (L. M. S. Russo).
 
 ## Programs
