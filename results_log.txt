@@ -1,306 +1,306 @@
-ll pma 12 random 1 -> pma random 12 moves_per_insert 0.9609 us_per_insert 0.099 ok 1
-ll pma 12 random 2 -> pma random 12 moves_per_insert 1.1748 us_per_insert 0.108 ok 1
-ll pma 12 random 3 -> pma random 12 moves_per_insert 1.2197 us_per_insert 0.104 ok 1
-ll pma 14 random 1 -> pma random 14 moves_per_insert 0.9558 us_per_insert 0.118 ok 1
-ll pma 14 random 2 -> pma random 14 moves_per_insert 0.9463 us_per_insert 0.110 ok 1
-ll pma 14 random 3 -> pma random 14 moves_per_insert 1.0034 us_per_insert 0.123 ok 1
-ll pma 16 random 1 -> pma random 16 moves_per_insert 0.9989 us_per_insert 0.128 ok 1
-ll pma 16 random 2 -> pma random 16 moves_per_insert 0.9928 us_per_insert 0.128 ok 1
-ll pma 16 random 3 -> pma random 16 moves_per_insert 1.0092 us_per_insert 0.128 ok 1
-ll pma 18 random 1 -> pma random 18 moves_per_insert 0.9129 us_per_insert 0.197 ok 1
-ll pma 18 random 2 -> pma random 18 moves_per_insert 0.9447 us_per_insert 0.196 ok 1
-ll pma 18 random 3 -> pma random 18 moves_per_insert 0.9356 us_per_insert 0.187 ok 1
-ll pma 20 random 1 -> pma random 20 moves_per_insert 0.9251 us_per_insert 0.262 ok 1
-ll pma 20 random 2 -> pma random 20 moves_per_insert 0.9271 us_per_insert 0.260 ok 1
-ll pma 20 random 3 -> pma random 20 moves_per_insert 0.9279 us_per_insert 0.255 ok 1
-ll pma 22 random 1 -> pma random 22 moves_per_insert 0.9267 us_per_insert 0.401 ok 1
-ll pma 22 random 2 -> pma random 22 moves_per_insert 0.9347 us_per_insert 0.403 ok 1
-ll pma 22 random 3 -> pma random 22 moves_per_insert 0.9221 us_per_insert 0.369 ok 1
-ll pma 12 front 1 -> pma front 12 moves_per_insert 32.1582 us_per_insert 0.757 ok 1
-ll pma 14 front 1 -> pma front 14 moves_per_insert 48.8418 us_per_insert 1.129 ok 1
-ll pma 16 front 1 -> pma front 16 moves_per_insert 69.5217 us_per_insert 1.624 ok 1
-ll pma 18 front 1 -> pma front 18 moves_per_insert 92.9953 us_per_insert 2.361 ok 1
-ll pma 20 front 1 -> pma front 20 moves_per_insert 121.7040 us_per_insert 3.661 ok 1
-ll pma 22 front 1 -> pma front 22 moves_per_insert 155.0069 us_per_insert 6.651 ok 1
-ll pma 12 seq 1 -> pma seq 12 moves_per_insert 29.5801 us_per_insert 0.711 ok 1
-ll pma 14 seq 1 -> pma seq 14 moves_per_insert 45.8835 us_per_insert 1.045 ok 1
-ll pma 16 seq 1 -> pma seq 16 moves_per_insert 65.6585 us_per_insert 1.532 ok 1
-ll pma 18 seq 1 -> pma seq 18 moves_per_insert 86.9036 us_per_insert 1.940 ok 1
-ll pma 20 seq 1 -> pma seq 20 moves_per_insert 115.5202 us_per_insert 2.700 ok 1
-ll pma 22 seq 1 -> pma seq 22 moves_per_insert 148.4293 us_per_insert 3.657 ok 1
-ll hi 12 random 1 -> hi random 12 moves_per_insert 62.2236 us_per_insert 2.963 ok 1
-ll hi 12 random 2 -> hi random 12 moves_per_insert 66.5488 us_per_insert 3.023 ok 1
-ll hi 12 random 3 -> hi random 12 moves_per_insert 79.3457 us_per_insert 3.483 ok 1
-ll hi 14 random 1 -> hi random 14 moves_per_insert 76.7183 us_per_insert 4.454 ok 1
-ll hi 14 random 2 -> hi random 14 moves_per_insert 95.3689 us_per_insert 5.032 ok 1
-ll hi 14 random 3 -> hi random 14 moves_per_insert 72.8540 us_per_insert 4.254 ok 1
-ll hi 16 random 1 -> hi random 16 moves_per_insert 119.0928 us_per_insert 9.462 ok 1
-ll hi 16 random 2 -> hi random 16 moves_per_insert 91.0710 us_per_insert 8.720 ok 1
-ll hi 16 random 3 -> hi random 16 moves_per_insert 105.4203 us_per_insert 8.919 ok 1
-ll hi 18 random 1 -> hi random 18 moves_per_insert 128.4413 us_per_insert 22.233 ok 1
-ll hi 18 random 2 -> hi random 18 moves_per_insert 129.6805 us_per_insert 22.336 ok 1
-ll hi 18 random 3 -> hi random 18 moves_per_insert 135.6053 us_per_insert 22.533 ok 1
-ll hi 20 random 1 -> hi random 20 moves_per_insert 170.5896 us_per_insert 72.566 ok 1
-ll hi 20 random 2 -> hi random 20 moves_per_insert 164.3632 us_per_insert 69.925 ok 1
-ll hi 20 random 3 -> hi random 20 moves_per_insert 164.0769 us_per_insert 69.670 ok 1
-ll hi 22 random 1 -> hi random 22 moves_per_insert 225.9556 us_per_insert 242.600 ok 1
-ll hi 22 random 2 -> hi random 22 moves_per_insert 229.0901 us_per_insert 247.331 ok 1
-ll hi 22 random 3 -> hi random 22 moves_per_insert 198.3329 us_per_insert 245.735 ok 1
-ll hi 12 front 1 -> hi front 12 moves_per_insert 55.6318 us_per_insert 2.413 ok 1
-ll hi 12 front 2 -> hi front 12 moves_per_insert 62.1846 us_per_insert 2.538 ok 1
-ll hi 12 front 3 -> hi front 12 moves_per_insert 61.8828 us_per_insert 2.531 ok 1
-ll hi 14 front 1 -> hi front 14 moves_per_insert 98.0776 us_per_insert 4.628 ok 1
-ll hi 14 front 2 -> hi front 14 moves_per_insert 68.7495 us_per_insert 3.935 ok 1
-ll hi 14 front 3 -> hi front 14 moves_per_insert 97.2883 us_per_insert 5.281 ok 1
-ll hi 16 front 1 -> hi front 16 moves_per_insert 115.0341 us_per_insert 9.804 ok 1
-ll hi 16 front 2 -> hi front 16 moves_per_insert 119.9019 us_per_insert 8.642 ok 1
-ll hi 16 front 3 -> hi front 16 moves_per_insert 116.8608 us_per_insert 8.705 ok 1
-ll hi 18 front 1 -> hi front 18 moves_per_insert 128.4056 us_per_insert 21.871 ok 1
-ll hi 18 front 2 -> hi front 18 moves_per_insert 140.9313 us_per_insert 22.490 ok 1
-ll hi 18 front 3 -> hi front 18 moves_per_insert 113.5210 us_per_insert 21.030 ok 1
-ll hi 20 front 1 -> hi front 20 moves_per_insert 176.0469 us_per_insert 68.676 ok 1
-ll hi 20 front 2 -> hi front 20 moves_per_insert 147.9834 us_per_insert 68.892 ok 1
-ll hi 20 front 3 -> hi front 20 moves_per_insert 156.4080 us_per_insert 67.902 ok 1
-ll hi 22 front 1 -> hi front 22 moves_per_insert 162.1518 us_per_insert 246.805 ok 1
-ll hi 22 front 2 -> hi front 22 moves_per_insert 193.7593 us_per_insert 241.079 ok 1
-ll hi 22 front 3 -> hi front 22 moves_per_insert 171.5705 us_per_insert 243.292 ok 1
-ll hi 12 seq 1 -> hi seq 12 moves_per_insert 77.0234 us_per_insert 2.984 ok 1
-ll hi 12 seq 2 -> hi seq 12 moves_per_insert 74.9355 us_per_insert 2.880 ok 1
-ll hi 12 seq 3 -> hi seq 12 moves_per_insert 55.5430 us_per_insert 2.515 ok 1
-ll hi 14 seq 1 -> hi seq 14 moves_per_insert 116.9634 us_per_insert 5.134 ok 1
-ll hi 14 seq 2 -> hi seq 14 moves_per_insert 108.8086 us_per_insert 4.844 ok 1
-ll hi 14 seq 3 -> hi seq 14 moves_per_insert 85.6570 us_per_insert 4.275 ok 1
-ll hi 16 seq 1 -> hi seq 16 moves_per_insert 99.8771 us_per_insert 8.267 ok 1
-ll hi 16 seq 2 -> hi seq 16 moves_per_insert 117.6810 us_per_insert 8.620 ok 1
-ll hi 16 seq 3 -> hi seq 16 moves_per_insert 125.8073 us_per_insert 8.996 ok 1
-ll hi 18 seq 1 -> hi seq 18 moves_per_insert 148.1657 us_per_insert 21.236 ok 1
-ll hi 18 seq 2 -> hi seq 18 moves_per_insert 129.0310 us_per_insert 21.923 ok 1
-ll hi 18 seq 3 -> hi seq 18 moves_per_insert 150.3364 us_per_insert 21.661 ok 1
-ll hi 20 seq 1 -> hi seq 20 moves_per_insert 167.6127 us_per_insert 67.180 ok 1
-ll hi 20 seq 2 -> hi seq 20 moves_per_insert 169.5197 us_per_insert 65.455 ok 1
-ll hi 20 seq 3 -> hi seq 20 moves_per_insert 173.3898 us_per_insert 67.102 ok 1
-ll hi 22 seq 1 -> hi seq 22 moves_per_insert 185.6037 us_per_insert 242.699 ok 1
-ll hi 22 seq 2 -> hi seq 22 moves_per_insert 185.9127 us_per_insert 245.939 ok 1
-ll hi 22 seq 3 -> hi seq 22 moves_per_insert 232.6722 us_per_insert 234.768 ok 1
-ll seesaw 12 random 1 -> seesaw random 12 moves_per_insert 56.9990 us_per_insert 3.797 ok 1 resets 237 wrebuilds 400 fallbacks 0
-ll seesaw 12 random 2 -> seesaw random 12 moves_per_insert 71.2451 us_per_insert 4.576 ok 1 resets 234 wrebuilds 367 fallbacks 0
-ll seesaw 12 random 3 -> seesaw random 12 moves_per_insert 94.5947 us_per_insert 6.097 ok 1 resets 289 wrebuilds 358 fallbacks 0
-ll seesaw 14 random 1 -> seesaw random 14 moves_per_insert 112.7979 us_per_insert 7.117 ok 1 resets 916 wrebuilds 1351 fallbacks 0
-ll seesaw 14 random 2 -> seesaw random 14 moves_per_insert 112.6782 us_per_insert 7.042 ok 1 resets 1206 wrebuilds 1194 fallbacks 0
-ll seesaw 14 random 3 -> seesaw random 14 moves_per_insert 141.1008 us_per_insert 8.853 ok 1 resets 1053 wrebuilds 1152 fallbacks 0
-ll seesaw 16 random 1 -> seesaw random 16 moves_per_insert 178.7578 us_per_insert 11.264 ok 1 resets 3655 wrebuilds 4157 fallbacks 0
-ll seesaw 16 random 2 -> seesaw random 16 moves_per_insert 175.7016 us_per_insert 13.112 ok 1 resets 3739 wrebuilds 4506 fallbacks 0
-ll seesaw 16 random 3 -> seesaw random 16 moves_per_insert 168.7664 us_per_insert 12.046 ok 1 resets 3684 wrebuilds 4361 fallbacks 0
-ll seesaw 18 random 1 -> seesaw random 18 moves_per_insert 291.3965 us_per_insert 22.275 ok 1 resets 10661 wrebuilds 15229 fallbacks 0
-ll seesaw 18 random 2 -> seesaw random 18 moves_per_insert 205.7646 us_per_insert 14.855 ok 1 resets 10066 wrebuilds 16410 fallbacks 0
-ll seesaw 18 random 3 -> seesaw random 18 moves_per_insert 241.0981 us_per_insert 16.885 ok 1 resets 8820 wrebuilds 14948 fallbacks 0
-ll seesaw 20 random 1 -> seesaw random 20 moves_per_insert 286.6227 us_per_insert 21.498 ok 1 resets 23972 wrebuilds 53024 fallbacks 0
-ll seesaw 20 random 2 -> seesaw random 20 moves_per_insert 258.1888 us_per_insert 21.102 ok 1 resets 28086 wrebuilds 59427 fallbacks 0
-ll seesaw 20 random 3 -> seesaw random 20 moves_per_insert 286.0536 us_per_insert 23.733 ok 1 resets 24056 wrebuilds 51258 fallbacks 0
-ll seesaw 22 random 1 -> seesaw random 22 moves_per_insert 273.3007 us_per_insert 33.065 ok 1 resets 69500 wrebuilds 230716 fallbacks 0
-ll seesaw 22 random 2 -> seesaw random 22 moves_per_insert 454.7779 us_per_insert 58.563 ok 1 resets 50962 wrebuilds 144133 fallbacks 0
-ll seesaw 22 random 3 -> seesaw random 22 moves_per_insert 328.9417 us_per_insert 39.412 ok 1 resets 62839 wrebuilds 194919 fallbacks 0
-ll seesaw 12 front 1 -> seesaw front 12 moves_per_insert 235.8262 us_per_insert 11.602 ok 1 resets 602 wrebuilds 749 fallbacks 0
-ll seesaw 12 front 2 -> seesaw front 12 moves_per_insert 98.5059 us_per_insert 5.634 ok 1 resets 654 wrebuilds 595 fallbacks 0
-ll seesaw 12 front 3 -> seesaw front 12 moves_per_insert 149.2441 us_per_insert 8.216 ok 1 resets 688 wrebuilds 669 fallbacks 0
-ll seesaw 14 front 1 -> seesaw front 14 moves_per_insert 169.3403 us_per_insert 8.901 ok 1 resets 2664 wrebuilds 2667 fallbacks 0
-ll seesaw 14 front 2 -> seesaw front 14 moves_per_insert 228.9883 us_per_insert 12.390 ok 1 resets 2701 wrebuilds 2707 fallbacks 0
-ll seesaw 14 front 3 -> seesaw front 14 moves_per_insert 189.2959 us_per_insert 10.698 ok 1 resets 2897 wrebuilds 2640 fallbacks 0
-ll seesaw 16 front 1 -> seesaw front 16 moves_per_insert 310.1302 us_per_insert 17.208 ok 1 resets 12122 wrebuilds 10755 fallbacks 0
-ll seesaw 16 front 2 -> seesaw front 16 moves_per_insert 239.3802 us_per_insert 13.418 ok 1 resets 11854 wrebuilds 10276 fallbacks 0
-ll seesaw 16 front 3 -> seesaw front 16 moves_per_insert 323.0626 us_per_insert 17.687 ok 1 resets 11480 wrebuilds 10285 fallbacks 0
-ll seesaw 18 front 1 -> seesaw front 18 moves_per_insert 320.9864 us_per_insert 19.983 ok 1 resets 52025 wrebuilds 41868 fallbacks 0
-ll seesaw 18 front 2 -> seesaw front 18 moves_per_insert 746.5594 us_per_insert 46.940 ok 1 resets 50367 wrebuilds 41702 fallbacks 0
-ll seesaw 18 front 3 -> seesaw front 18 moves_per_insert 362.6421 us_per_insert 22.321 ok 1 resets 46284 wrebuilds 39890 fallbacks 0
-ll seesaw 20 front 1 -> seesaw front 20 moves_per_insert 395.1151 us_per_insert 22.622 ok 1 resets 113559 wrebuilds 153836 fallbacks 0
-ll seesaw 20 front 2 -> seesaw front 20 moves_per_insert 437.4689 us_per_insert 26.686 ok 1 resets 137484 wrebuilds 166353 fallbacks 0
-ll seesaw 20 front 3 -> seesaw front 20 moves_per_insert 495.8023 us_per_insert 28.707 ok 1 resets 127948 wrebuilds 160360 fallbacks 0
-ll seesaw 22 front 1 -> seesaw front 22 moves_per_insert 731.9349 us_per_insert 45.567 ok 1 resets 313843 wrebuilds 644694 fallbacks 0
-ll seesaw 22 front 2 -> seesaw front 22 moves_per_insert 523.3477 us_per_insert 34.127 ok 1 resets 331974 wrebuilds 642954 fallbacks 0
-ll seesaw 22 front 3 -> seesaw front 22 moves_per_insert 585.0125 us_per_insert 39.262 ok 1 resets 334270 wrebuilds 650847 fallbacks 0
-ll seesaw 12 seq 1 -> seesaw seq 12 moves_per_insert 125.1992 us_per_insert 7.305 ok 1 resets 621 wrebuilds 627 fallbacks 0
-ll seesaw 12 seq 2 -> seesaw seq 12 moves_per_insert 117.5566 us_per_insert 6.342 ok 1 resets 660 wrebuilds 640 fallbacks 0
-ll seesaw 12 seq 3 -> seesaw seq 12 moves_per_insert 159.6357 us_per_insert 8.444 ok 1 resets 646 wrebuilds 650 fallbacks 0
-ll seesaw 14 seq 1 -> seesaw seq 14 moves_per_insert 264.7078 us_per_insert 14.665 ok 1 resets 2858 wrebuilds 2733 fallbacks 0
-ll seesaw 14 seq 2 -> seesaw seq 14 moves_per_insert 177.6179 us_per_insert 9.987 ok 1 resets 2903 wrebuilds 2612 fallbacks 0
-ll seesaw 14 seq 3 -> seesaw seq 14 moves_per_insert 172.6184 us_per_insert 10.774 ok 1 resets 2817 wrebuilds 2604 fallbacks 0
-ll seesaw 16 seq 1 -> seesaw seq 16 moves_per_insert 352.7855 us_per_insert 20.135 ok 1 resets 12018 wrebuilds 10649 fallbacks 0
-ll seesaw 16 seq 2 -> seesaw seq 16 moves_per_insert 314.6223 us_per_insert 16.567 ok 1 resets 11671 wrebuilds 10705 fallbacks 0
-ll seesaw 16 seq 3 -> seesaw seq 16 moves_per_insert 304.4304 us_per_insert 16.698 ok 1 resets 12085 wrebuilds 10742 fallbacks 0
-ll seesaw 18 seq 1 -> seesaw seq 18 moves_per_insert 338.9489 us_per_insert 19.914 ok 1 resets 47940 wrebuilds 40822 fallbacks 0
-ll seesaw 18 seq 2 -> seesaw seq 18 moves_per_insert 274.0692 us_per_insert 14.849 ok 1 resets 44909 wrebuilds 39891 fallbacks 0
-ll seesaw 18 seq 3 -> seesaw seq 18 moves_per_insert 338.2084 us_per_insert 21.598 ok 1 resets 48270 wrebuilds 41255 fallbacks 0
-ll seesaw 20 seq 1 -> seesaw seq 20 moves_per_insert 436.1664 us_per_insert 21.411 ok 1 resets 110569 wrebuilds 155273 fallbacks 0
-ll seesaw 20 seq 2 -> seesaw seq 20 moves_per_insert 533.9613 us_per_insert 28.263 ok 1 resets 124514 wrebuilds 162745 fallbacks 0
-ll seesaw 20 seq 3 -> seesaw seq 20 moves_per_insert 519.5929 us_per_insert 27.111 ok 1 resets 126355 wrebuilds 164178 fallbacks 0
-ll seesaw 22 seq 1 -> seesaw seq 22 moves_per_insert 658.4874 us_per_insert 38.382 ok 1 resets 283288 wrebuilds 609116 fallbacks 0
-ll seesaw 22 seq 2 -> seesaw seq 22 moves_per_insert 481.9283 us_per_insert 23.511 ok 1 resets 280662 wrebuilds 606939 fallbacks 0
-ll seesaw 22 seq 3 -> seesaw seq 22 moves_per_insert 514.7387 us_per_insert 28.150 ok 1 resets 293778 wrebuilds 617419 fallbacks 0
-ss seesaw 18 random 1 4 2 -> seesaw random 18 moves_per_insert 72.8096 us_per_insert 6.723 ok 1 resets 8 wrebuilds 12855 fallbacks 0
-ss seesaw 18 random 2 4 2 -> seesaw random 18 moves_per_insert 76.6489 us_per_insert 7.292 ok 1 resets 2 wrebuilds 10545 fallbacks 0
-ss seesaw 18 random 3 4 2 -> seesaw random 18 moves_per_insert 91.0598 us_per_insert 8.159 ok 1 resets 1 wrebuilds 7592 fallbacks 0
-ss seesaw 18 front 1 4 2 -> seesaw front 18 moves_per_insert 415.4028 us_per_insert 14.096 ok 1 resets 1114 wrebuilds 9700 fallbacks 538
-ss seesaw 18 front 2 4 2 -> seesaw front 18 moves_per_insert 366.3673 us_per_insert 13.237 ok 1 resets 1434 wrebuilds 13168 fallbacks 610
-ss seesaw 18 front 3 4 2 -> seesaw front 18 moves_per_insert 238.9928 us_per_insert 11.196 ok 1 resets 2188 wrebuilds 18059 fallbacks 856
-ss seesaw 18 random 1 8 4 -> seesaw random 18 moves_per_insert 120.5795 us_per_insert 9.005 ok 1 resets 145 wrebuilds 17617 fallbacks 0
-ss seesaw 18 random 2 8 4 -> seesaw random 18 moves_per_insert 201.7086 us_per_insert 13.541 ok 1 resets 46 wrebuilds 12711 fallbacks 0
-ss seesaw 18 random 3 8 4 -> seesaw random 18 moves_per_insert 136.4708 us_per_insert 10.388 ok 1 resets 134 wrebuilds 13686 fallbacks 0
-ss seesaw 18 front 1 8 4 -> seesaw front 18 moves_per_insert 215.6316 us_per_insert 9.459 ok 1 resets 5843 wrebuilds 20900 fallbacks 0
-ss seesaw 18 front 2 8 4 -> seesaw front 18 moves_per_insert 340.6473 us_per_insert 16.026 ok 1 resets 8405 wrebuilds 30304 fallbacks 0
-ss seesaw 18 front 3 8 4 -> seesaw front 18 moves_per_insert 248.4565 us_per_insert 13.474 ok 1 resets 9493 wrebuilds 35576 fallbacks 0
-ss seesaw 18 random 1 16 8 -> seesaw random 18 moves_per_insert 291.3965 us_per_insert 24.263 ok 1 resets 10661 wrebuilds 15229 fallbacks 0
-ss seesaw 18 random 2 16 8 -> seesaw random 18 moves_per_insert 205.7646 us_per_insert 18.789 ok 1 resets 10066 wrebuilds 16410 fallbacks 0
-ss seesaw 18 random 3 16 8 -> seesaw random 18 moves_per_insert 241.0981 us_per_insert 18.976 ok 1 resets 8820 wrebuilds 14948 fallbacks 0
-ss seesaw 18 front 1 16 8 -> seesaw front 18 moves_per_insert 320.9864 us_per_insert 21.355 ok 1 resets 52025 wrebuilds 41868 fallbacks 0
-ss seesaw 18 front 2 16 8 -> seesaw front 18 moves_per_insert 746.5594 us_per_insert 47.905 ok 1 resets 50367 wrebuilds 41702 fallbacks 0
-ss seesaw 18 front 3 16 8 -> seesaw front 18 moves_per_insert 362.6421 us_per_insert 22.645 ok 1 resets 46284 wrebuilds 39890 fallbacks 0
-ss seesaw 18 random 1 32 8 -> seesaw random 18 moves_per_insert 414.8262 us_per_insert 35.344 ok 1 resets 65535 wrebuilds 17138 fallbacks 0
-ss seesaw 18 random 2 32 8 -> seesaw random 18 moves_per_insert 480.3228 us_per_insert 33.037 ok 1 resets 65535 wrebuilds 17873 fallbacks 0
-ss seesaw 18 random 3 32 8 -> seesaw random 18 moves_per_insert 509.0366 us_per_insert 36.268 ok 1 resets 65535 wrebuilds 15478 fallbacks 0
-ss seesaw 18 front 1 32 8 -> seesaw front 18 moves_per_insert 553.4115 us_per_insert 35.173 ok 1 resets 65531 wrebuilds 42406 fallbacks 0
-ss seesaw 18 front 2 32 8 -> seesaw front 18 moves_per_insert 505.2228 us_per_insert 34.179 ok 1 resets 65535 wrebuilds 42500 fallbacks 0
-ss seesaw 18 front 3 32 8 -> seesaw front 18 moves_per_insert 620.8960 us_per_insert 44.310 ok 1 resets 65534 wrebuilds 42567 fallbacks 0
-ss seesaw 18 random 1 64 16 -> seesaw random 18 moves_per_insert 758.7800 us_per_insert 47.804 ok 1 resets 65536 wrebuilds 18647 fallbacks 0
-ss seesaw 18 random 2 64 16 -> seesaw random 18 moves_per_insert 843.8186 us_per_insert 56.924 ok 1 resets 65536 wrebuilds 17016 fallbacks 0
-ss seesaw 18 random 3 64 16 -> seesaw random 18 moves_per_insert 844.0644 us_per_insert 56.140 ok 1 resets 65536 wrebuilds 19539 fallbacks 0
-ss seesaw 18 front 1 64 16 -> seesaw front 18 moves_per_insert 1142.1212 us_per_insert 64.435 ok 1 resets 65536 wrebuilds 41420 fallbacks 0
-ss seesaw 18 front 2 64 16 -> seesaw front 18 moves_per_insert 1217.6206 us_per_insert 69.863 ok 1 resets 65536 wrebuilds 41267 fallbacks 0
-ss seesaw 18 front 3 64 16 -> seesaw front 18 moves_per_insert 1009.0183 us_per_insert 57.091 ok 1 resets 65536 wrebuilds 40978 fallbacks 0
-om ds87 4096 random 0 1 -> ds87 random 4096 0 relabels_per_insert 0.0000 ns_per_insert 8.7 ns_per_order 5.3 ok 1
-om ds87 16384 random 0 1 -> ds87 random 16384 0 relabels_per_insert 0.0000 ns_per_insert 18.6 ns_per_order 5.4 ok 1
-om ds87 65536 random 0 1 -> ds87 random 65536 0 relabels_per_insert 0.0000 ns_per_insert 20.7 ns_per_order 8.2 ok 1
-om ds87 262144 random 0 1 -> ds87 random 262144 0 relabels_per_insert 0.0000 ns_per_insert 28.9 ns_per_order 10.9 ok 1
-om ds87 1048576 random 0 1 -> ds87 random 1048576 0 relabels_per_insert 0.0000 ns_per_insert 36.5 ns_per_order 16.1 ok 1
-om ds87 4194304 random 0 1 -> ds87 random 4194304 0 relabels_per_insert 0.0000 ns_per_insert 54.2 ns_per_order 38.6 ok 1
-om ds87 4096 front 0 1 -> ds87 front 4096 0 relabels_per_insert 9.7263 ns_per_insert 61.5 ns_per_order 5.4 ok 1
-om ds87 16384 front 0 1 -> ds87 front 16384 0 relabels_per_insert 12.0612 ns_per_insert 96.7 ns_per_order 5.3 ok 1
-om ds87 65536 front 0 1 -> ds87 front 65536 0 relabels_per_insert 13.9153 ns_per_insert 99.3 ns_per_order 8.3 ok 1
-om ds87 262144 front 0 1 -> ds87 front 262144 0 relabels_per_insert 16.1205 ns_per_insert 113.8 ns_per_order 11.2 ok 1
-om ds87 1048576 front 0 1 -> ds87 front 1048576 0 relabels_per_insert 18.0590 ns_per_insert 132.3 ns_per_order 24.9 ok 1
-om ds87 4194304 front 0 1 -> ds87 front 4194304 0 relabels_per_insert 20.2460 ns_per_insert 160.8 ns_per_order 40.5 ok 1
-om ds87 4096 seq 0 1 -> ds87 seq 4096 0 relabels_per_insert 0.0312 ns_per_insert 8.4 ns_per_order 5.6 ok 1
-om ds87 16384 seq 0 1 -> ds87 seq 16384 0 relabels_per_insert 0.0372 ns_per_insert 13.7 ns_per_order 5.5 ok 1
-om ds87 65536 seq 0 1 -> ds87 seq 65536 0 relabels_per_insert 0.0509 ns_per_insert 17.2 ns_per_order 8.4 ok 1
-om ds87 262144 seq 0 1 -> ds87 seq 262144 0 relabels_per_insert 0.0633 ns_per_insert 17.3 ns_per_order 12.7 ok 1
-om ds87 1048576 seq 0 1 -> ds87 seq 1048576 0 relabels_per_insert 0.0829 ns_per_insert 19.6 ns_per_order 28.2 ok 1
-om ds87 4194304 seq 0 1 -> ds87 seq 4194304 0 relabels_per_insert 0.0968 ns_per_insert 22.7 ns_per_order 40.7 ok 1
-om bcdfz 4096 random 0 1 -> bcdfz random 4096 0 relabels_per_insert 0.0000 ns_per_insert 10.3 ns_per_order 5.3 ok 1
-om bcdfz 16384 random 0 1 -> bcdfz random 16384 0 relabels_per_insert 0.0000 ns_per_insert 18.1 ns_per_order 5.3 ok 1
-om bcdfz 65536 random 0 1 -> bcdfz random 65536 0 relabels_per_insert 0.0000 ns_per_insert 24.8 ns_per_order 8.4 ok 1
-om bcdfz 262144 random 0 1 -> bcdfz random 262144 0 relabels_per_insert 0.0000 ns_per_insert 39.5 ns_per_order 10.9 ok 1
-om bcdfz 1048576 random 0 1 -> bcdfz random 1048576 0 relabels_per_insert 0.0000 ns_per_insert 44.2 ns_per_order 23.9 ok 1
-om bcdfz 4194304 random 0 1 -> bcdfz random 4194304 0 relabels_per_insert 0.0000 ns_per_insert 69.5 ns_per_order 37.0 ok 1
-om bcdfz 4096 front 0 1 -> bcdfz front 4096 0 relabels_per_insert 9.4971 ns_per_insert 61.3 ns_per_order 5.3 ok 1
-om bcdfz 16384 front 0 1 -> bcdfz front 16384 0 relabels_per_insert 11.3768 ns_per_insert 78.5 ns_per_order 5.3 ok 1
-om bcdfz 65536 front 0 1 -> bcdfz front 65536 0 relabels_per_insert 12.8206 ns_per_insert 90.5 ns_per_order 7.6 ok 1
-om bcdfz 262144 front 0 1 -> bcdfz front 262144 0 relabels_per_insert 14.3994 ns_per_insert 98.6 ns_per_order 10.3 ok 1
-om bcdfz 1048576 front 0 1 -> bcdfz front 1048576 0 relabels_per_insert 15.8479 ns_per_insert 110.0 ns_per_order 22.1 ok 1
-om bcdfz 4194304 front 0 1 -> bcdfz front 4194304 0 relabels_per_insert 17.2808 ns_per_insert 132.5 ns_per_order 36.7 ok 1
-om bcdfz 4096 seq 0 1 -> bcdfz seq 4096 0 relabels_per_insert 6.7070 ns_per_insert 42.2 ns_per_order 5.3 ok 1
-om bcdfz 16384 seq 0 1 -> bcdfz seq 16384 0 relabels_per_insert 8.7211 ns_per_insert 59.4 ns_per_order 5.2 ok 1
-om bcdfz 65536 seq 0 1 -> bcdfz seq 65536 0 relabels_per_insert 9.8717 ns_per_insert 68.4 ns_per_order 11.4 ok 1
-om bcdfz 262144 seq 0 1 -> bcdfz seq 262144 0 relabels_per_insert 11.9009 ns_per_insert 82.3 ns_per_order 13.6 ok 1
-om bcdfz 1048576 seq 0 1 -> bcdfz seq 1048576 0 relabels_per_insert 13.7322 ns_per_insert 102.9 ns_per_order 22.2 ok 1
-om bcdfz 4194304 seq 0 1 -> bcdfz seq 4194304 0 relabels_per_insert 14.9291 ns_per_insert 120.9 ns_per_order 39.7 ok 1
-om twolevel 4096 random 0 1 -> twolevel random 4096 0 relabels_per_insert 1.3696 ns_per_insert 17.9 ns_per_order 5.8 ok 1
-om twolevel 16384 random 0 1 -> twolevel random 16384 0 relabels_per_insert 1.4117 ns_per_insert 25.1 ns_per_order 5.3 ok 1
-om twolevel 65536 random 0 1 -> twolevel random 65536 0 relabels_per_insert 1.4171 ns_per_insert 40.6 ns_per_order 8.4 ok 1
-om twolevel 262144 random 0 1 -> twolevel random 262144 0 relabels_per_insert 1.4147 ns_per_insert 69.9 ns_per_order 10.7 ok 1
-om twolevel 1048576 random 0 1 -> twolevel random 1048576 0 relabels_per_insert 1.4122 ns_per_insert 115.4 ns_per_order 27.1 ok 1
-om twolevel 4194304 random 0 1 -> twolevel random 4194304 0 relabels_per_insert 1.4142 ns_per_insert 236.7 ns_per_order 42.6 ok 1
-om twolevel 4096 front 0 1 -> twolevel front 4096 0 relabels_per_insert 1.9807 ns_per_insert 13.0 ns_per_order 5.4 ok 1
-om twolevel 16384 front 0 1 -> twolevel front 16384 0 relabels_per_insert 2.0633 ns_per_insert 20.5 ns_per_order 5.4 ok 1
-om twolevel 65536 front 0 1 -> twolevel front 65536 0 relabels_per_insert 2.1316 ns_per_insert 23.6 ns_per_order 13.7 ok 1
-om twolevel 262144 front 0 1 -> twolevel front 262144 0 relabels_per_insert 2.1873 ns_per_insert 24.1 ns_per_order 21.3 ok 1
-om twolevel 1048576 front 0 1 -> twolevel front 1048576 0 relabels_per_insert 2.2125 ns_per_insert 24.9 ns_per_order 47.0 ok 1
-om twolevel 4194304 front 0 1 -> twolevel front 4194304 0 relabels_per_insert 2.2618 ns_per_insert 27.9 ns_per_order 51.4 ok 1
-om twolevel 4096 seq 0 1 -> twolevel seq 4096 0 relabels_per_insert 2.0276 ns_per_insert 14.4 ns_per_order 5.5 ok 1
-om twolevel 16384 seq 0 1 -> twolevel seq 16384 0 relabels_per_insert 2.1281 ns_per_insert 21.1 ns_per_order 5.3 ok 1
-om twolevel 65536 seq 0 1 -> twolevel seq 65536 0 relabels_per_insert 2.1883 ns_per_insert 24.7 ns_per_order 13.6 ok 1
-om twolevel 262144 seq 0 1 -> twolevel seq 262144 0 relabels_per_insert 2.2434 ns_per_insert 24.7 ns_per_order 21.2 ok 1
-om twolevel 1048576 seq 0 1 -> twolevel seq 1048576 0 relabels_per_insert 2.2859 ns_per_insert 25.9 ns_per_order 41.3 ok 1
-om twolevel 4194304 seq 0 1 -> twolevel seq 4194304 0 relabels_per_insert 2.3435 ns_per_insert 28.0 ns_per_order 50.6 ok 1
-om naive 1024 front 62 1 -> naive front 1024 62 relabels_per_insert 9.2324 ns_per_insert 15.1 ns_per_order 5.3 ok 1
-om naive 2048 front 62 1 -> naive front 2048 62 relabels_per_insert 19.5186 ns_per_insert 28.4 ns_per_order 5.3 ok 1
-om naive 4096 front 62 1 -> naive front 4096 62 relabels_per_insert 39.7056 ns_per_insert 67.8 ns_per_order 5.1 ok 1
-om naive 8192 front 62 1 -> naive front 8192 62 relabels_per_insert 81.2827 ns_per_insert 119.7 ns_per_order 5.1 ok 1
-om naive 16384 front 62 1 -> naive front 16384 62 relabels_per_insert 165.7996 ns_per_insert 244.2 ns_per_order 5.3 ok 1
-om naive 32768 front 62 1 -> naive front 32768 62 relabels_per_insert 339.4311 ns_per_insert 476.1 ns_per_order 5.8 ok 1
-om naive 65536 front 62 1 -> naive front 65536 62 relabels_per_insert 692.6251 ns_per_insert 1500.4 ns_per_order 10.2 ok 1
-bcT bcdfz 1024 front 1.1 1 32 -> bcdfz front 1024 1.1 relabels_per_insert 20.2100 ns_per_insert 105.4 ns_per_order 5.2 ok 1
-bcT bcdfz 2048 front 1.1 1 32 -> bcdfz front 2048 1.1 relabels_per_insert 24.3525 ns_per_insert 124.2 ns_per_order 5.1 ok 1
-bcT bcdfz 4096 front 1.1 1 32 -> bcdfz front 4096 1.1 relabels_per_insert 27.6423 ns_per_insert 144.9 ns_per_order 5.1 ok 1
-bcT bcdfz 8192 front 1.1 1 32 -> bcdfz front 8192 1.1 relabels_per_insert 31.6901 ns_per_insert 162.7 ns_per_order 5.0 ok 1
-bcT bcdfz 16384 front 1.1 1 32 -> bcdfz front 16384 1.1 relabels_per_insert 34.1295 ns_per_insert 176.5 ns_per_order 5.1 ok 1
-bcT bcdfz 32768 front 1.1 1 32 -> bcdfz front 32768 1.1 relabels_per_insert 37.0110 ns_per_insert 190.6 ns_per_order 5.9 ok 1
-bcT bcdfz 65536 front 1.1 1 32 -> bcdfz front 65536 1.1 relabels_per_insert 41.2820 ns_per_insert 219.4 ns_per_order 10.3 ok 1
-bcT bcdfz 131072 front 1.1 1 32 -> bcdfz front 131072 1.1 relabels_per_insert 44.2009 ns_per_insert 239.9 ns_per_order 11.0 ok 1
-bcT bcdfz 262144 front 1.1 1 32 -> bcdfz front 262144 1.1 relabels_per_insert 47.6039 ns_per_insert 264.2 ns_per_order 12.4 ok 1
-bcT bcdfz 524288 front 1.1 1 32 -> bcdfz front 524288 1.1 relabels_per_insert 51.3124 ns_per_insert 281.4 ns_per_order 14.6 ok 1
-bcT bcdfz 1048576 front 1.1 1 32 -> bcdfz front 1048576 1.1 relabels_per_insert 54.1447 ns_per_insert 369.5 ns_per_order 26.4 ok 1
-bcT bcdfz 1024 front 1.2 1 32 -> bcdfz front 1024 1.2 relabels_per_insert 14.1660 ns_per_insert 77.8 ns_per_order 5.3 ok 1
-bcT bcdfz 2048 front 1.2 1 32 -> bcdfz front 2048 1.2 relabels_per_insert 16.0132 ns_per_insert 83.4 ns_per_order 5.2 ok 1
-bcT bcdfz 4096 front 1.2 1 32 -> bcdfz front 4096 1.2 relabels_per_insert 18.9922 ns_per_insert 124.4 ns_per_order 5.3 ok 1
-bcT bcdfz 8192 front 1.2 1 32 -> bcdfz front 8192 1.2 relabels_per_insert 19.8794 ns_per_insert 113.8 ns_per_order 5.3 ok 1
-bcT bcdfz 16384 front 1.2 1 32 -> bcdfz front 16384 1.2 relabels_per_insert 21.4518 ns_per_insert 126.4 ns_per_order 5.6 ok 1
-bcT bcdfz 32768 front 1.2 1 32 -> bcdfz front 32768 1.2 relabels_per_insert 23.3832 ns_per_insert 137.7 ns_per_order 7.5 ok 1
-bcT bcdfz 65536 front 1.2 1 32 -> bcdfz front 65536 1.2 relabels_per_insert 24.8513 ns_per_insert 160.7 ns_per_order 7.9 ok 1
-bcT bcdfz 131072 front 1.2 1 32 -> bcdfz front 131072 1.2 relabels_per_insert 27.1411 ns_per_insert 157.2 ns_per_order 8.1 ok 1
-bcT bcdfz 262144 front 1.2 1 32 -> bcdfz front 262144 1.2 relabels_per_insert 28.7087 ns_per_insert 174.3 ns_per_order 12.9 ok 1
-bcT bcdfz 524288 front 1.2 1 32 -> bcdfz front 524288 1.2 relabels_per_insert 30.1982 ns_per_insert 177.8 ns_per_order 12.6 ok 1
-bcT bcdfz 1048576 front 1.2 1 32 -> bcdfz front 1048576 1.2 relabels_per_insert 31.9917 ns_per_insert 197.6 ns_per_order 22.1 ok 1
-bcT bcdfz 1024 front 1.3 1 32 -> bcdfz front 1024 1.3 relabels_per_insert 10.4785 ns_per_insert 79.1 ns_per_order 5.2 ok 1
-bcT bcdfz 2048 front 1.3 1 32 -> bcdfz front 2048 1.3 relabels_per_insert 11.6655 ns_per_insert 63.3 ns_per_order 5.2 ok 1
-bcT bcdfz 4096 front 1.3 1 32 -> bcdfz front 4096 1.3 relabels_per_insert 13.3433 ns_per_insert 86.3 ns_per_order 5.3 ok 1
-bcT bcdfz 8192 front 1.3 1 32 -> bcdfz front 8192 1.3 relabels_per_insert 14.5460 ns_per_insert 86.7 ns_per_order 5.2 ok 1
-bcT bcdfz 16384 front 1.3 1 32 -> bcdfz front 16384 1.3 relabels_per_insert 15.6332 ns_per_insert 92.2 ns_per_order 5.3 ok 1
-bcT bcdfz 32768 front 1.3 1 32 -> bcdfz front 32768 1.3 relabels_per_insert 17.4986 ns_per_insert 107.3 ns_per_order 5.8 ok 1
-bcT bcdfz 65536 front 1.3 1 32 -> bcdfz front 65536 1.3 relabels_per_insert 18.4109 ns_per_insert 110.5 ns_per_order 7.4 ok 1
-bcT bcdfz 131072 front 1.3 1 32 -> bcdfz front 131072 1.3 relabels_per_insert 19.6368 ns_per_insert 120.4 ns_per_order 8.8 ok 1
-bcT bcdfz 262144 front 1.3 1 32 -> bcdfz front 262144 1.3 relabels_per_insert 20.5625 ns_per_insert 128.1 ns_per_order 10.2 ok 1
-bcT bcdfz 524288 front 1.3 1 32 -> bcdfz front 524288 1.3 relabels_per_insert 21.9779 ns_per_insert 136.2 ns_per_order 12.0 ok 1
-bcT bcdfz 1048576 front 1.3 1 32 -> bcdfz front 1048576 1.3 relabels_per_insert 23.3815 ns_per_insert 151.8 ns_per_order 27.3 ok 1
-bcT bcdfz 1024 front 1.4 1 32 -> bcdfz front 1024 1.4 relabels_per_insert 8.3496 ns_per_insert 50.0 ns_per_order 5.2 ok 1
-bcT bcdfz 2048 front 1.4 1 32 -> bcdfz front 2048 1.4 relabels_per_insert 9.4321 ns_per_insert 69.5 ns_per_order 5.3 ok 1
-bcT bcdfz 4096 front 1.4 1 32 -> bcdfz front 4096 1.4 relabels_per_insert 10.4551 ns_per_insert 84.0 ns_per_order 5.2 ok 1
-bcT bcdfz 8192 front 1.4 1 32 -> bcdfz front 8192 1.4 relabels_per_insert 11.4838 ns_per_insert 71.4 ns_per_order 5.3 ok 1
-bcT bcdfz 16384 front 1.4 1 32 -> bcdfz front 16384 1.4 relabels_per_insert 12.4398 ns_per_insert 82.3 ns_per_order 5.2 ok 1
-bcT bcdfz 32768 front 1.4 1 32 -> bcdfz front 32768 1.4 relabels_per_insert 13.5436 ns_per_insert 87.2 ns_per_order 6.8 ok 1
-bcT bcdfz 65536 front 1.4 1 32 -> bcdfz front 65536 1.4 relabels_per_insert 14.5762 ns_per_insert 95.4 ns_per_order 7.7 ok 1
-bcT bcdfz 131072 front 1.4 1 32 -> bcdfz front 131072 1.4 relabels_per_insert 15.5580 ns_per_insert 101.4 ns_per_order 8.2 ok 1
-bcT bcdfz 262144 front 1.4 1 32 -> bcdfz front 262144 1.4 relabels_per_insert 22.5039 ns_per_insert 142.5 ns_per_order 9.5 ok 1
-bcT bcdfz 524288 front 1.4 1 32 -> bcdfz front 524288 1.4 relabels_per_insert 51.6435 ns_per_insert 369.0 ns_per_order 9.9 ok 1
-bcT bcdfz 1048576 front 1.4 1 32 -> bcdfz front 1048576 1.4 relabels_per_insert 167.0619 ns_per_insert 936.9 ns_per_order 20.1 ok 1
-bcT bcdfz 1024 front 1.5 1 32 -> bcdfz front 1024 1.5 relabels_per_insert 7.6543 ns_per_insert 48.1 ns_per_order 5.2 ok 1
-bcT bcdfz 2048 front 1.5 1 32 -> bcdfz front 2048 1.5 relabels_per_insert 8.3232 ns_per_insert 50.9 ns_per_order 5.4 ok 1
-bcT bcdfz 4096 front 1.5 1 32 -> bcdfz front 4096 1.5 relabels_per_insert 9.5320 ns_per_insert 68.5 ns_per_order 5.6 ok 1
-bcT bcdfz 8192 front 1.5 1 32 -> bcdfz front 8192 1.5 relabels_per_insert 10.5055 ns_per_insert 75.0 ns_per_order 5.2 ok 1
-bcT bcdfz 16384 front 1.5 1 32 -> bcdfz front 16384 1.5 relabels_per_insert 11.4846 ns_per_insert 79.2 ns_per_order 5.4 ok 1
-bcT bcdfz 32768 front 1.5 1 32 -> bcdfz front 32768 1.5 relabels_per_insert 15.3430 ns_per_insert 98.7 ns_per_order 7.1 ok 1
-bcT bcdfz 65536 front 1.5 1 32 -> bcdfz front 65536 1.5 relabels_per_insert 30.4523 ns_per_insert 175.5 ns_per_order 7.3 ok 1
-bcT bcdfz 131072 front 1.5 1 32 -> bcdfz front 131072 1.5 relabels_per_insert 78.9417 ns_per_insert 426.8 ns_per_order 8.5 ok 1
-bcT bcdfz 262144 front 1.5 1 32 -> bcdfz front 262144 1.5 relabels_per_insert 258.3501 ns_per_insert 1313.9 ns_per_order 8.7 ok 1
-bcT bcdfz 524288 front 1.5 1 32 -> bcdfz front 524288 1.5 relabels_per_insert 801.5749 ns_per_insert 5912.6 ns_per_order 18.0 ok 1
-bcT bcdfz 1048576 front 1.5 1 32 -> bcdfz front 1048576 1.5 relabels_per_insert 2871.4048 ns_per_insert 20297.0 ns_per_order 19.6 ok 1
-bcT bcdfz 1024 front 1.6 1 32 -> bcdfz front 1024 1.6 relabels_per_insert 6.8350 ns_per_insert 93.5 ns_per_order 5.7 ok 1
-bcT bcdfz 2048 front 1.6 1 32 -> bcdfz front 2048 1.6 relabels_per_insert 7.9175 ns_per_insert 51.4 ns_per_order 5.3 ok 1
-bcT bcdfz 4096 front 1.6 1 32 -> bcdfz front 4096 1.6 relabels_per_insert 10.7324 ns_per_insert 68.5 ns_per_order 5.3 ok 1
-bcT bcdfz 8192 front 1.6 1 32 -> bcdfz front 8192 1.6 relabels_per_insert 18.9531 ns_per_insert 111.3 ns_per_order 5.2 ok 1
-bcT bcdfz 16384 front 1.6 1 32 -> bcdfz front 16384 1.6 relabels_per_insert 41.7489 ns_per_insert 212.2 ns_per_order 5.3 ok 1
-bcT bcdfz 32768 front 1.6 1 32 -> bcdfz front 32768 1.6 relabels_per_insert 97.4427 ns_per_insert 496.5 ns_per_order 10.2 ok 1
-bcT bcdfz 65536 front 1.6 1 32 -> bcdfz front 65536 1.6 relabels_per_insert 288.4923 ns_per_insert 1922.9 ns_per_order 14.1 ok 1
-bcT bcdfz 131072 front 1.6 1 32 -> bcdfz front 131072 1.6 relabels_per_insert 821.0440 ns_per_insert 6252.1 ns_per_order 16.0 ok 1
-bcT bcdfz 262144 front 1.6 1 32 -> bcdfz front 262144 1.6 relabels_per_insert 1972.6003 ns_per_insert 14518.3 ns_per_order 16.4 ok 1
-bcT bcdfz 524288 front 1.6 1 32 -> bcdfz front 524288 1.6 relabels_per_insert 6028.6580 ns_per_insert 37239.8 ns_per_order 12.5 ok 1
-bcT bcdfz 1048576 front 1.6 1 32 -> bcdfz front 1048576 1.6 relabels_per_insert 17529.4691 ns_per_insert 121839.8 ns_per_order 22.7 ok 1
-bcT bcdfz 1024 front 1.7 1 32 -> bcdfz front 1024 1.7 relabels_per_insert 9.9854 ns_per_insert 106.0 ns_per_order 5.4 ok 1
-bcT bcdfz 2048 front 1.7 1 32 -> bcdfz front 2048 1.7 relabels_per_insert 18.4224 ns_per_insert 169.0 ns_per_order 5.3 ok 1
-bcT bcdfz 4096 front 1.7 1 32 -> bcdfz front 4096 1.7 relabels_per_insert 34.6626 ns_per_insert 303.0 ns_per_order 5.5 ok 1
-bcT bcdfz 8192 front 1.7 1 32 -> bcdfz front 8192 1.7 relabels_per_insert 105.6625 ns_per_insert 854.6 ns_per_order 6.2 ok 1
-bcT bcdfz 16384 front 1.7 1 32 -> bcdfz front 16384 1.7 relabels_per_insert 246.1125 ns_per_insert 1931.1 ns_per_order 5.5 ok 1
-bcT bcdfz 32768 front 1.7 1 32 -> bcdfz front 32768 1.7 relabels_per_insert 508.3531 ns_per_insert 2376.7 ns_per_order 9.0 ok 1
-bcT bcdfz 65536 front 1.7 1 32 -> bcdfz front 65536 1.7 relabels_per_insert 1646.4425 ns_per_insert 10260.4 ns_per_order 7.9 ok 1
-bcT bcdfz 131072 front 1.7 1 32 -> bcdfz front 131072 1.7 relabels_per_insert 3895.9712 ns_per_insert 20286.3 ns_per_order 7.9 ok 1
-bcT bcdfz 262144 front 1.7 1 32 -> bcdfz front 262144 1.7 relabels_per_insert 8092.7356 ns_per_insert 50633.4 ns_per_order 16.7 ok 1
-bcT bcdfz 524288 front 1.7 1 32 -> bcdfz front 524288 1.7 relabels_per_insert 23502.9375 ns_per_insert 146538.7 ns_per_order 9.4 ok 1
-bcT bcdfz 1048576 front 1.7 1 32 -> FAIL 
+ll pma 12 random 1 -> pma random 12 moves_per_insert 0.9609 us_per_insert 0.124 ok 1
+ll pma 12 random 2 -> pma random 12 moves_per_insert 1.1748 us_per_insert 0.132 ok 1
+ll pma 12 random 3 -> pma random 12 moves_per_insert 1.2197 us_per_insert 0.147 ok 1
+ll pma 14 random 1 -> pma random 14 moves_per_insert 0.9558 us_per_insert 0.147 ok 1
+ll pma 14 random 2 -> pma random 14 moves_per_insert 0.9463 us_per_insert 0.146 ok 1
+ll pma 14 random 3 -> pma random 14 moves_per_insert 1.0034 us_per_insert 0.153 ok 1
+ll pma 16 random 1 -> pma random 16 moves_per_insert 0.9989 us_per_insert 0.171 ok 1
+ll pma 16 random 2 -> pma random 16 moves_per_insert 0.9928 us_per_insert 0.169 ok 1
+ll pma 16 random 3 -> pma random 16 moves_per_insert 1.0092 us_per_insert 0.160 ok 1
+ll pma 18 random 1 -> pma random 18 moves_per_insert 0.9129 us_per_insert 0.179 ok 1
+ll pma 18 random 2 -> pma random 18 moves_per_insert 0.9447 us_per_insert 0.178 ok 1
+ll pma 18 random 3 -> pma random 18 moves_per_insert 0.9356 us_per_insert 0.212 ok 1
+ll pma 20 random 1 -> pma random 20 moves_per_insert 0.9251 us_per_insert 0.311 ok 1
+ll pma 20 random 2 -> pma random 20 moves_per_insert 0.9271 us_per_insert 0.312 ok 1
+ll pma 20 random 3 -> pma random 20 moves_per_insert 0.9279 us_per_insert 0.259 ok 1
+ll pma 22 random 1 -> pma random 22 moves_per_insert 0.9267 us_per_insert 0.449 ok 1
+ll pma 22 random 2 -> pma random 22 moves_per_insert 0.9347 us_per_insert 0.450 ok 1
+ll pma 22 random 3 -> pma random 22 moves_per_insert 0.9221 us_per_insert 0.362 ok 1
+ll pma 12 front 1 -> pma front 12 moves_per_insert 32.1582 us_per_insert 0.884 ok 1
+ll pma 14 front 1 -> pma front 14 moves_per_insert 48.8418 us_per_insert 1.577 ok 1
+ll pma 16 front 1 -> pma front 16 moves_per_insert 69.5217 us_per_insert 2.360 ok 1
+ll pma 18 front 1 -> pma front 18 moves_per_insert 92.9953 us_per_insert 3.246 ok 1
+ll pma 20 front 1 -> pma front 20 moves_per_insert 121.7040 us_per_insert 5.118 ok 1
+ll pma 22 front 1 -> pma front 22 moves_per_insert 155.0069 us_per_insert 11.812 ok 1
+ll pma 12 seq 1 -> pma seq 12 moves_per_insert 29.5801 us_per_insert 0.879 ok 1
+ll pma 14 seq 1 -> pma seq 14 moves_per_insert 45.8835 us_per_insert 1.317 ok 1
+ll pma 16 seq 1 -> pma seq 16 moves_per_insert 65.6585 us_per_insert 1.978 ok 1
+ll pma 18 seq 1 -> pma seq 18 moves_per_insert 86.9036 us_per_insert 2.606 ok 1
+ll pma 20 seq 1 -> pma seq 20 moves_per_insert 115.5202 us_per_insert 3.582 ok 1
+ll pma 22 seq 1 -> pma seq 22 moves_per_insert 148.4293 us_per_insert 5.245 ok 1
+ll hi 12 random 1 -> hi random 12 moves_per_insert 62.2236 us_per_insert 3.705 ok 1
+ll hi 12 random 2 -> hi random 12 moves_per_insert 66.5488 us_per_insert 3.788 ok 1
+ll hi 12 random 3 -> hi random 12 moves_per_insert 79.3457 us_per_insert 4.294 ok 1
+ll hi 14 random 1 -> hi random 14 moves_per_insert 76.7183 us_per_insert 5.806 ok 1
+ll hi 14 random 2 -> hi random 14 moves_per_insert 95.3689 us_per_insert 6.610 ok 1
+ll hi 14 random 3 -> hi random 14 moves_per_insert 72.8540 us_per_insert 5.785 ok 1
+ll hi 16 random 1 -> hi random 16 moves_per_insert 119.0928 us_per_insert 12.075 ok 1
+ll hi 16 random 2 -> hi random 16 moves_per_insert 91.0710 us_per_insert 11.301 ok 1
+ll hi 16 random 3 -> hi random 16 moves_per_insert 105.4203 us_per_insert 11.490 ok 1
+ll hi 18 random 1 -> hi random 18 moves_per_insert 128.4413 us_per_insert 28.568 ok 1
+ll hi 18 random 2 -> hi random 18 moves_per_insert 129.6805 us_per_insert 28.482 ok 1
+ll hi 18 random 3 -> hi random 18 moves_per_insert 135.6053 us_per_insert 28.633 ok 1
+ll hi 20 random 1 -> hi random 20 moves_per_insert 170.5896 us_per_insert 92.238 ok 1
+ll hi 20 random 2 -> hi random 20 moves_per_insert 164.3632 us_per_insert 88.002 ok 1
+ll hi 20 random 3 -> hi random 20 moves_per_insert 164.0769 us_per_insert 87.094 ok 1
+ll hi 22 random 1 -> hi random 22 moves_per_insert 225.9556 us_per_insert 307.052 ok 1
+ll hi 22 random 2 -> hi random 22 moves_per_insert 229.0901 us_per_insert 313.771 ok 1
+ll hi 22 random 3 -> hi random 22 moves_per_insert 198.3329 us_per_insert 312.323 ok 1
+ll hi 12 front 1 -> hi front 12 moves_per_insert 55.6318 us_per_insert 3.090 ok 1
+ll hi 12 front 2 -> hi front 12 moves_per_insert 62.1846 us_per_insert 3.123 ok 1
+ll hi 12 front 3 -> hi front 12 moves_per_insert 61.8828 us_per_insert 3.091 ok 1
+ll hi 14 front 1 -> hi front 14 moves_per_insert 98.0776 us_per_insert 6.135 ok 1
+ll hi 14 front 2 -> hi front 14 moves_per_insert 68.7495 us_per_insert 5.085 ok 1
+ll hi 14 front 3 -> hi front 14 moves_per_insert 97.2883 us_per_insert 6.009 ok 1
+ll hi 16 front 1 -> hi front 16 moves_per_insert 115.0341 us_per_insert 11.473 ok 1
+ll hi 16 front 2 -> hi front 16 moves_per_insert 119.9019 us_per_insert 11.380 ok 1
+ll hi 16 front 3 -> hi front 16 moves_per_insert 116.8608 us_per_insert 11.575 ok 1
+ll hi 18 front 1 -> hi front 18 moves_per_insert 128.4056 us_per_insert 27.528 ok 1
+ll hi 18 front 2 -> hi front 18 moves_per_insert 140.9313 us_per_insert 28.449 ok 1
+ll hi 18 front 3 -> hi front 18 moves_per_insert 113.5210 us_per_insert 27.399 ok 1
+ll hi 20 front 1 -> hi front 20 moves_per_insert 176.0469 us_per_insert 87.480 ok 1
+ll hi 20 front 2 -> hi front 20 moves_per_insert 147.9834 us_per_insert 87.131 ok 1
+ll hi 20 front 3 -> hi front 20 moves_per_insert 156.4080 us_per_insert 87.337 ok 1
+ll hi 22 front 1 -> hi front 22 moves_per_insert 162.1518 us_per_insert 325.241 ok 1
+ll hi 22 front 2 -> hi front 22 moves_per_insert 193.7593 us_per_insert 315.449 ok 1
+ll hi 22 front 3 -> hi front 22 moves_per_insert 171.5705 us_per_insert 319.141 ok 1
+ll hi 12 seq 1 -> hi seq 12 moves_per_insert 77.0234 us_per_insert 3.960 ok 1
+ll hi 12 seq 2 -> hi seq 12 moves_per_insert 74.9355 us_per_insert 3.632 ok 1
+ll hi 12 seq 3 -> hi seq 12 moves_per_insert 55.5430 us_per_insert 3.168 ok 1
+ll hi 14 seq 1 -> hi seq 14 moves_per_insert 116.9634 us_per_insert 6.789 ok 1
+ll hi 14 seq 2 -> hi seq 14 moves_per_insert 108.8086 us_per_insert 6.298 ok 1
+ll hi 14 seq 3 -> hi seq 14 moves_per_insert 85.6570 us_per_insert 5.574 ok 1
+ll hi 16 seq 1 -> hi seq 16 moves_per_insert 99.8771 us_per_insert 10.799 ok 1
+ll hi 16 seq 2 -> hi seq 16 moves_per_insert 117.6810 us_per_insert 11.209 ok 1
+ll hi 16 seq 3 -> hi seq 16 moves_per_insert 125.8073 us_per_insert 11.693 ok 1
+ll hi 18 seq 1 -> hi seq 18 moves_per_insert 148.1657 us_per_insert 27.673 ok 1
+ll hi 18 seq 2 -> hi seq 18 moves_per_insert 129.0310 us_per_insert 27.732 ok 1
+ll hi 18 seq 3 -> hi seq 18 moves_per_insert 150.3364 us_per_insert 28.123 ok 1
+ll hi 20 seq 1 -> hi seq 20 moves_per_insert 167.6127 us_per_insert 86.152 ok 1
+ll hi 20 seq 2 -> hi seq 20 moves_per_insert 169.5197 us_per_insert 83.561 ok 1
+ll hi 20 seq 3 -> hi seq 20 moves_per_insert 173.3898 us_per_insert 85.173 ok 1
+ll hi 22 seq 1 -> hi seq 22 moves_per_insert 185.6037 us_per_insert 311.777 ok 1
+ll hi 22 seq 2 -> hi seq 22 moves_per_insert 185.9127 us_per_insert 314.591 ok 1
+ll hi 22 seq 3 -> hi seq 22 moves_per_insert 232.6722 us_per_insert 300.308 ok 1
+ll seesaw 12 random 1 -> seesaw random 12 moves_per_insert 56.9990 us_per_insert 5.042 ok 1 resets 237 wrebuilds 400 fallbacks 0
+ll seesaw 12 random 2 -> seesaw random 12 moves_per_insert 71.2451 us_per_insert 6.391 ok 1 resets 234 wrebuilds 367 fallbacks 0
+ll seesaw 12 random 3 -> seesaw random 12 moves_per_insert 94.5947 us_per_insert 7.954 ok 1 resets 289 wrebuilds 358 fallbacks 0
+ll seesaw 14 random 1 -> seesaw random 14 moves_per_insert 112.7979 us_per_insert 9.094 ok 1 resets 916 wrebuilds 1351 fallbacks 0
+ll seesaw 14 random 2 -> seesaw random 14 moves_per_insert 112.6782 us_per_insert 9.057 ok 1 resets 1206 wrebuilds 1194 fallbacks 0
+ll seesaw 14 random 3 -> seesaw random 14 moves_per_insert 141.1008 us_per_insert 11.428 ok 1 resets 1053 wrebuilds 1152 fallbacks 0
+ll seesaw 16 random 1 -> seesaw random 16 moves_per_insert 178.7578 us_per_insert 14.025 ok 1 resets 3655 wrebuilds 4157 fallbacks 0
+ll seesaw 16 random 2 -> seesaw random 16 moves_per_insert 175.7016 us_per_insert 13.989 ok 1 resets 3739 wrebuilds 4506 fallbacks 0
+ll seesaw 16 random 3 -> seesaw random 16 moves_per_insert 168.7664 us_per_insert 13.806 ok 1 resets 3684 wrebuilds 4361 fallbacks 0
+ll seesaw 18 random 1 -> seesaw random 18 moves_per_insert 291.3965 us_per_insert 22.099 ok 1 resets 10661 wrebuilds 15229 fallbacks 0
+ll seesaw 18 random 2 -> seesaw random 18 moves_per_insert 205.7646 us_per_insert 16.775 ok 1 resets 10066 wrebuilds 16410 fallbacks 0
+ll seesaw 18 random 3 -> seesaw random 18 moves_per_insert 241.0981 us_per_insert 19.235 ok 1 resets 8820 wrebuilds 14948 fallbacks 0
+ll seesaw 20 random 1 -> seesaw random 20 moves_per_insert 286.6227 us_per_insert 23.270 ok 1 resets 23972 wrebuilds 53024 fallbacks 0
+ll seesaw 20 random 2 -> seesaw random 20 moves_per_insert 258.1888 us_per_insert 21.960 ok 1 resets 28086 wrebuilds 59427 fallbacks 0
+ll seesaw 20 random 3 -> seesaw random 20 moves_per_insert 286.0536 us_per_insert 23.365 ok 1 resets 24056 wrebuilds 51258 fallbacks 0
+ll seesaw 22 random 1 -> seesaw random 22 moves_per_insert 273.3007 us_per_insert 28.781 ok 1 resets 69500 wrebuilds 230716 fallbacks 0
+ll seesaw 22 random 2 -> seesaw random 22 moves_per_insert 454.7779 us_per_insert 43.311 ok 1 resets 50962 wrebuilds 144133 fallbacks 0
+ll seesaw 22 random 3 -> seesaw random 22 moves_per_insert 328.9417 us_per_insert 32.557 ok 1 resets 62839 wrebuilds 194919 fallbacks 0
+ll seesaw 12 front 1 -> seesaw front 12 moves_per_insert 235.8262 us_per_insert 16.123 ok 1 resets 602 wrebuilds 749 fallbacks 0
+ll seesaw 12 front 2 -> seesaw front 12 moves_per_insert 98.5059 us_per_insert 7.607 ok 1 resets 654 wrebuilds 595 fallbacks 0
+ll seesaw 12 front 3 -> seesaw front 12 moves_per_insert 149.2441 us_per_insert 11.098 ok 1 resets 688 wrebuilds 669 fallbacks 0
+ll seesaw 14 front 1 -> seesaw front 14 moves_per_insert 169.3403 us_per_insert 11.927 ok 1 resets 2664 wrebuilds 2667 fallbacks 0
+ll seesaw 14 front 2 -> seesaw front 14 moves_per_insert 228.9883 us_per_insert 16.316 ok 1 resets 2701 wrebuilds 2707 fallbacks 0
+ll seesaw 14 front 3 -> seesaw front 14 moves_per_insert 189.2959 us_per_insert 14.114 ok 1 resets 2897 wrebuilds 2640 fallbacks 0
+ll seesaw 16 front 1 -> seesaw front 16 moves_per_insert 310.1302 us_per_insert 22.716 ok 1 resets 12122 wrebuilds 10755 fallbacks 0
+ll seesaw 16 front 2 -> seesaw front 16 moves_per_insert 239.3802 us_per_insert 18.223 ok 1 resets 11854 wrebuilds 10276 fallbacks 0
+ll seesaw 16 front 3 -> seesaw front 16 moves_per_insert 323.0626 us_per_insert 22.737 ok 1 resets 11480 wrebuilds 10285 fallbacks 0
+ll seesaw 18 front 1 -> seesaw front 18 moves_per_insert 320.9864 us_per_insert 24.940 ok 1 resets 52025 wrebuilds 41868 fallbacks 0
+ll seesaw 18 front 2 -> seesaw front 18 moves_per_insert 746.5594 us_per_insert 52.255 ok 1 resets 50367 wrebuilds 41702 fallbacks 0
+ll seesaw 18 front 3 -> seesaw front 18 moves_per_insert 362.6421 us_per_insert 26.905 ok 1 resets 46284 wrebuilds 39890 fallbacks 0
+ll seesaw 20 front 1 -> seesaw front 20 moves_per_insert 395.1151 us_per_insert 28.032 ok 1 resets 113559 wrebuilds 153836 fallbacks 0
+ll seesaw 20 front 2 -> seesaw front 20 moves_per_insert 437.4689 us_per_insert 31.802 ok 1 resets 137484 wrebuilds 166353 fallbacks 0
+ll seesaw 20 front 3 -> seesaw front 20 moves_per_insert 495.8023 us_per_insert 33.991 ok 1 resets 127948 wrebuilds 160360 fallbacks 0
+ll seesaw 22 front 1 -> seesaw front 22 moves_per_insert 731.9349 us_per_insert 65.016 ok 1 resets 313843 wrebuilds 644694 fallbacks 0
+ll seesaw 22 front 2 -> seesaw front 22 moves_per_insert 523.3477 us_per_insert 49.594 ok 1 resets 331974 wrebuilds 642954 fallbacks 0
+ll seesaw 22 front 3 -> seesaw front 22 moves_per_insert 585.0125 us_per_insert 53.933 ok 1 resets 334270 wrebuilds 650847 fallbacks 0
+ll seesaw 12 seq 1 -> seesaw seq 12 moves_per_insert 125.1992 us_per_insert 9.054 ok 1 resets 621 wrebuilds 627 fallbacks 0
+ll seesaw 12 seq 2 -> seesaw seq 12 moves_per_insert 117.5566 us_per_insert 8.372 ok 1 resets 660 wrebuilds 640 fallbacks 0
+ll seesaw 12 seq 3 -> seesaw seq 12 moves_per_insert 159.6357 us_per_insert 11.676 ok 1 resets 646 wrebuilds 650 fallbacks 0
+ll seesaw 14 seq 1 -> seesaw seq 14 moves_per_insert 264.7078 us_per_insert 17.442 ok 1 resets 2858 wrebuilds 2733 fallbacks 0
+ll seesaw 14 seq 2 -> seesaw seq 14 moves_per_insert 177.6179 us_per_insert 12.163 ok 1 resets 2903 wrebuilds 2612 fallbacks 0
+ll seesaw 14 seq 3 -> seesaw seq 14 moves_per_insert 172.6184 us_per_insert 13.404 ok 1 resets 2817 wrebuilds 2604 fallbacks 0
+ll seesaw 16 seq 1 -> seesaw seq 16 moves_per_insert 352.7855 us_per_insert 22.165 ok 1 resets 12018 wrebuilds 10649 fallbacks 0
+ll seesaw 16 seq 2 -> seesaw seq 16 moves_per_insert 314.6223 us_per_insert 21.225 ok 1 resets 11671 wrebuilds 10705 fallbacks 0
+ll seesaw 16 seq 3 -> seesaw seq 16 moves_per_insert 304.4304 us_per_insert 21.572 ok 1 resets 12085 wrebuilds 10742 fallbacks 0
+ll seesaw 18 seq 1 -> seesaw seq 18 moves_per_insert 338.9489 us_per_insert 23.265 ok 1 resets 47940 wrebuilds 40822 fallbacks 0
+ll seesaw 18 seq 2 -> seesaw seq 18 moves_per_insert 274.0692 us_per_insert 18.866 ok 1 resets 44909 wrebuilds 39891 fallbacks 0
+ll seesaw 18 seq 3 -> seesaw seq 18 moves_per_insert 338.2084 us_per_insert 25.102 ok 1 resets 48270 wrebuilds 41255 fallbacks 0
+ll seesaw 20 seq 1 -> seesaw seq 20 moves_per_insert 436.1664 us_per_insert 26.117 ok 1 resets 110569 wrebuilds 155273 fallbacks 0
+ll seesaw 20 seq 2 -> seesaw seq 20 moves_per_insert 533.9613 us_per_insert 32.999 ok 1 resets 124514 wrebuilds 162745 fallbacks 0
+ll seesaw 20 seq 3 -> seesaw seq 20 moves_per_insert 519.5929 us_per_insert 32.408 ok 1 resets 126355 wrebuilds 164178 fallbacks 0
+ll seesaw 22 seq 1 -> seesaw seq 22 moves_per_insert 658.4874 us_per_insert 43.784 ok 1 resets 283288 wrebuilds 609116 fallbacks 0
+ll seesaw 22 seq 2 -> seesaw seq 22 moves_per_insert 481.9283 us_per_insert 29.772 ok 1 resets 280662 wrebuilds 606939 fallbacks 0
+ll seesaw 22 seq 3 -> seesaw seq 22 moves_per_insert 514.7387 us_per_insert 32.706 ok 1 resets 293778 wrebuilds 617419 fallbacks 0
+ss seesaw 18 random 1 4 2 -> seesaw random 18 moves_per_insert 72.8096 us_per_insert 6.770 ok 1 resets 8 wrebuilds 12855 fallbacks 0
+ss seesaw 18 random 2 4 2 -> seesaw random 18 moves_per_insert 76.6489 us_per_insert 7.069 ok 1 resets 2 wrebuilds 10545 fallbacks 0
+ss seesaw 18 random 3 4 2 -> seesaw random 18 moves_per_insert 91.0598 us_per_insert 7.815 ok 1 resets 1 wrebuilds 7592 fallbacks 0
+ss seesaw 18 front 1 4 2 -> seesaw front 18 moves_per_insert 415.4028 us_per_insert 19.282 ok 1 resets 1114 wrebuilds 9700 fallbacks 538
+ss seesaw 18 front 2 4 2 -> seesaw front 18 moves_per_insert 366.3673 us_per_insert 18.222 ok 1 resets 1434 wrebuilds 13168 fallbacks 610
+ss seesaw 18 front 3 4 2 -> seesaw front 18 moves_per_insert 238.9928 us_per_insert 13.733 ok 1 resets 2188 wrebuilds 18059 fallbacks 856
+ss seesaw 18 random 1 8 4 -> seesaw random 18 moves_per_insert 120.5795 us_per_insert 10.501 ok 1 resets 145 wrebuilds 17617 fallbacks 0
+ss seesaw 18 random 2 8 4 -> seesaw random 18 moves_per_insert 201.7086 us_per_insert 15.380 ok 1 resets 46 wrebuilds 12711 fallbacks 0
+ss seesaw 18 random 3 8 4 -> seesaw random 18 moves_per_insert 136.4708 us_per_insert 11.868 ok 1 resets 134 wrebuilds 13686 fallbacks 0
+ss seesaw 18 front 1 8 4 -> seesaw front 18 moves_per_insert 215.6316 us_per_insert 11.754 ok 1 resets 5843 wrebuilds 20900 fallbacks 0
+ss seesaw 18 front 2 8 4 -> seesaw front 18 moves_per_insert 340.6473 us_per_insert 20.041 ok 1 resets 8405 wrebuilds 30304 fallbacks 0
+ss seesaw 18 front 3 8 4 -> seesaw front 18 moves_per_insert 248.4565 us_per_insert 17.327 ok 1 resets 9493 wrebuilds 35576 fallbacks 0
+ss seesaw 18 random 1 16 8 -> seesaw random 18 moves_per_insert 291.3965 us_per_insert 22.190 ok 1 resets 10661 wrebuilds 15229 fallbacks 0
+ss seesaw 18 random 2 16 8 -> seesaw random 18 moves_per_insert 205.7646 us_per_insert 16.998 ok 1 resets 10066 wrebuilds 16410 fallbacks 0
+ss seesaw 18 random 3 16 8 -> seesaw random 18 moves_per_insert 241.0981 us_per_insert 19.184 ok 1 resets 8820 wrebuilds 14948 fallbacks 0
+ss seesaw 18 front 1 16 8 -> seesaw front 18 moves_per_insert 320.9864 us_per_insert 24.935 ok 1 resets 52025 wrebuilds 41868 fallbacks 0
+ss seesaw 18 front 2 16 8 -> seesaw front 18 moves_per_insert 746.5594 us_per_insert 52.507 ok 1 resets 50367 wrebuilds 41702 fallbacks 0
+ss seesaw 18 front 3 16 8 -> seesaw front 18 moves_per_insert 362.6421 us_per_insert 26.961 ok 1 resets 46284 wrebuilds 39890 fallbacks 0
+ss seesaw 18 random 1 32 8 -> seesaw random 18 moves_per_insert 414.8262 us_per_insert 31.870 ok 1 resets 65535 wrebuilds 17138 fallbacks 0
+ss seesaw 18 random 2 32 8 -> seesaw random 18 moves_per_insert 480.3228 us_per_insert 36.921 ok 1 resets 65535 wrebuilds 17873 fallbacks 0
+ss seesaw 18 random 3 32 8 -> seesaw random 18 moves_per_insert 509.0366 us_per_insert 38.944 ok 1 resets 65535 wrebuilds 15478 fallbacks 0
+ss seesaw 18 front 1 32 8 -> seesaw front 18 moves_per_insert 553.4115 us_per_insert 42.618 ok 1 resets 65531 wrebuilds 42406 fallbacks 0
+ss seesaw 18 front 2 32 8 -> seesaw front 18 moves_per_insert 505.2228 us_per_insert 40.116 ok 1 resets 65535 wrebuilds 42500 fallbacks 0
+ss seesaw 18 front 3 32 8 -> seesaw front 18 moves_per_insert 620.8960 us_per_insert 48.921 ok 1 resets 65534 wrebuilds 42567 fallbacks 0
+ss seesaw 18 random 1 64 16 -> seesaw random 18 moves_per_insert 758.7800 us_per_insert 54.707 ok 1 resets 65536 wrebuilds 18647 fallbacks 0
+ss seesaw 18 random 2 64 16 -> seesaw random 18 moves_per_insert 843.8186 us_per_insert 60.233 ok 1 resets 65536 wrebuilds 17016 fallbacks 0
+ss seesaw 18 random 3 64 16 -> seesaw random 18 moves_per_insert 844.0644 us_per_insert 65.444 ok 1 resets 65536 wrebuilds 19539 fallbacks 0
+ss seesaw 18 front 1 64 16 -> seesaw front 18 moves_per_insert 1142.1212 us_per_insert 78.113 ok 1 resets 65536 wrebuilds 41420 fallbacks 0
+ss seesaw 18 front 2 64 16 -> seesaw front 18 moves_per_insert 1217.6206 us_per_insert 84.945 ok 1 resets 65536 wrebuilds 41267 fallbacks 0
+ss seesaw 18 front 3 64 16 -> seesaw front 18 moves_per_insert 1009.0183 us_per_insert 70.634 ok 1 resets 65536 wrebuilds 40978 fallbacks 0
+om ds87 4096 random 0 1 -> ds87 random 4096 0 relabels_per_insert 0.0000 ns_per_insert 23.8 ns_per_order 8.6 ok 1
+om ds87 16384 random 0 1 -> ds87 random 16384 0 relabels_per_insert 0.0000 ns_per_insert 24.6 ns_per_order 7.3 ok 1
+om ds87 65536 random 0 1 -> ds87 random 65536 0 relabels_per_insert 0.0000 ns_per_insert 25.9 ns_per_order 9.0 ok 1
+om ds87 262144 random 0 1 -> ds87 random 262144 0 relabels_per_insert 0.0000 ns_per_insert 34.7 ns_per_order 14.8 ok 1
+om ds87 1048576 random 0 1 -> ds87 random 1048576 0 relabels_per_insert 0.0000 ns_per_insert 41.6 ns_per_order 26.5 ok 1
+om ds87 4194304 random 0 1 -> ds87 random 4194304 0 relabels_per_insert 0.0000 ns_per_insert 62.9 ns_per_order 30.8 ok 1
+om ds87 4096 front 0 1 -> ds87 front 4096 0 relabels_per_insert 9.7263 ns_per_insert 87.5 ns_per_order 6.8 ok 1
+om ds87 16384 front 0 1 -> ds87 front 16384 0 relabels_per_insert 12.0612 ns_per_insert 145.2 ns_per_order 8.0 ok 1
+om ds87 65536 front 0 1 -> ds87 front 65536 0 relabels_per_insert 13.9153 ns_per_insert 113.9 ns_per_order 7.0 ok 1
+om ds87 262144 front 0 1 -> ds87 front 262144 0 relabels_per_insert 16.1205 ns_per_insert 130.0 ns_per_order 15.0 ok 1
+om ds87 1048576 front 0 1 -> ds87 front 1048576 0 relabels_per_insert 18.0590 ns_per_insert 147.3 ns_per_order 25.5 ok 1
+om ds87 4194304 front 0 1 -> ds87 front 4194304 0 relabels_per_insert 20.2460 ns_per_insert 162.3 ns_per_order 28.8 ok 1
+om ds87 4096 seq 0 1 -> ds87 seq 4096 0 relabels_per_insert 0.0312 ns_per_insert 19.1 ns_per_order 7.1 ok 1
+om ds87 16384 seq 0 1 -> ds87 seq 16384 0 relabels_per_insert 0.0372 ns_per_insert 18.2 ns_per_order 7.6 ok 1
+om ds87 65536 seq 0 1 -> ds87 seq 65536 0 relabels_per_insert 0.0509 ns_per_insert 18.8 ns_per_order 8.2 ok 1
+om ds87 262144 seq 0 1 -> ds87 seq 262144 0 relabels_per_insert 0.0633 ns_per_insert 8.8 ns_per_order 22.3 ok 1
+om ds87 1048576 seq 0 1 -> ds87 seq 1048576 0 relabels_per_insert 0.0829 ns_per_insert 8.9 ns_per_order 29.8 ok 1
+om ds87 4194304 seq 0 1 -> ds87 seq 4194304 0 relabels_per_insert 0.0968 ns_per_insert 11.3 ns_per_order 30.2 ok 1
+om bcdfz 4096 random 0 1 -> bcdfz random 4096 0 relabels_per_insert 0.0000 ns_per_insert 25.3 ns_per_order 6.9 ok 1
+om bcdfz 16384 random 0 1 -> bcdfz random 16384 0 relabels_per_insert 0.0000 ns_per_insert 20.9 ns_per_order 7.0 ok 1
+om bcdfz 65536 random 0 1 -> bcdfz random 65536 0 relabels_per_insert 0.0000 ns_per_insert 25.8 ns_per_order 7.0 ok 1
+om bcdfz 262144 random 0 1 -> bcdfz random 262144 0 relabels_per_insert 0.0000 ns_per_insert 31.7 ns_per_order 15.9 ok 1
+om bcdfz 1048576 random 0 1 -> bcdfz random 1048576 0 relabels_per_insert 0.0000 ns_per_insert 47.4 ns_per_order 28.7 ok 1
+om bcdfz 4194304 random 0 1 -> bcdfz random 4194304 0 relabels_per_insert 0.0000 ns_per_insert 67.2 ns_per_order 32.0 ok 1
+om bcdfz 4096 front 0 1 -> bcdfz front 4096 0 relabels_per_insert 9.4971 ns_per_insert 116.8 ns_per_order 8.2 ok 1
+om bcdfz 16384 front 0 1 -> bcdfz front 16384 0 relabels_per_insert 11.3768 ns_per_insert 108.9 ns_per_order 7.7 ok 1
+om bcdfz 65536 front 0 1 -> bcdfz front 65536 0 relabels_per_insert 12.8206 ns_per_insert 131.5 ns_per_order 7.0 ok 1
+om bcdfz 262144 front 0 1 -> bcdfz front 262144 0 relabels_per_insert 14.3994 ns_per_insert 123.1 ns_per_order 8.8 ok 1
+om bcdfz 1048576 front 0 1 -> bcdfz front 1048576 0 relabels_per_insert 15.8479 ns_per_insert 123.7 ns_per_order 25.5 ok 1
+om bcdfz 4194304 front 0 1 -> bcdfz front 4194304 0 relabels_per_insert 17.2808 ns_per_insert 128.6 ns_per_order 29.3 ok 1
+om bcdfz 4096 seq 0 1 -> bcdfz seq 4096 0 relabels_per_insert 6.7070 ns_per_insert 79.9 ns_per_order 7.1 ok 1
+om bcdfz 16384 seq 0 1 -> bcdfz seq 16384 0 relabels_per_insert 8.7211 ns_per_insert 106.3 ns_per_order 8.3 ok 1
+om bcdfz 65536 seq 0 1 -> bcdfz seq 65536 0 relabels_per_insert 9.8717 ns_per_insert 121.1 ns_per_order 8.7 ok 1
+om bcdfz 262144 seq 0 1 -> bcdfz seq 262144 0 relabels_per_insert 11.9009 ns_per_insert 97.5 ns_per_order 27.8 ok 1
+om bcdfz 1048576 seq 0 1 -> bcdfz seq 1048576 0 relabels_per_insert 13.7322 ns_per_insert 109.8 ns_per_order 29.8 ok 1
+om bcdfz 4194304 seq 0 1 -> bcdfz seq 4194304 0 relabels_per_insert 14.9291 ns_per_insert 113.8 ns_per_order 27.3 ok 1
+om twolevel 4096 random 0 1 -> twolevel random 4096 0 relabels_per_insert 1.3696 ns_per_insert 29.3 ns_per_order 7.5 ok 1
+om twolevel 16384 random 0 1 -> twolevel random 16384 0 relabels_per_insert 1.4117 ns_per_insert 38.6 ns_per_order 7.5 ok 1
+om twolevel 65536 random 0 1 -> twolevel random 65536 0 relabels_per_insert 1.4171 ns_per_insert 35.6 ns_per_order 7.7 ok 1
+om twolevel 262144 random 0 1 -> twolevel random 262144 0 relabels_per_insert 1.4147 ns_per_insert 70.1 ns_per_order 27.5 ok 1
+om twolevel 1048576 random 0 1 -> twolevel random 1048576 0 relabels_per_insert 1.4122 ns_per_insert 203.6 ns_per_order 31.4 ok 1
+om twolevel 4194304 random 0 1 -> twolevel random 4194304 0 relabels_per_insert 1.4142 ns_per_insert 264.1 ns_per_order 38.5 ok 1
+om twolevel 4096 front 0 1 -> twolevel front 4096 0 relabels_per_insert 1.9807 ns_per_insert 24.9 ns_per_order 8.4 ok 1
+om twolevel 16384 front 0 1 -> twolevel front 16384 0 relabels_per_insert 2.0633 ns_per_insert 23.1 ns_per_order 7.5 ok 1
+om twolevel 65536 front 0 1 -> twolevel front 65536 0 relabels_per_insert 2.1316 ns_per_insert 18.2 ns_per_order 9.9 ok 1
+om twolevel 262144 front 0 1 -> twolevel front 262144 0 relabels_per_insert 2.1873 ns_per_insert 14.8 ns_per_order 32.5 ok 1
+om twolevel 1048576 front 0 1 -> twolevel front 1048576 0 relabels_per_insert 2.2125 ns_per_insert 14.6 ns_per_order 40.7 ok 1
+om twolevel 4194304 front 0 1 -> twolevel front 4194304 0 relabels_per_insert 2.2618 ns_per_insert 16.8 ns_per_order 56.8 ok 1
+om twolevel 4096 seq 0 1 -> twolevel seq 4096 0 relabels_per_insert 2.0276 ns_per_insert 24.1 ns_per_order 7.1 ok 1
+om twolevel 16384 seq 0 1 -> twolevel seq 16384 0 relabels_per_insert 2.1281 ns_per_insert 28.3 ns_per_order 7.5 ok 1
+om twolevel 65536 seq 0 1 -> twolevel seq 65536 0 relabels_per_insert 2.1883 ns_per_insert 18.5 ns_per_order 7.5 ok 1
+om twolevel 262144 seq 0 1 -> twolevel seq 262144 0 relabels_per_insert 2.2434 ns_per_insert 17.8 ns_per_order 23.7 ok 1
+om twolevel 1048576 seq 0 1 -> twolevel seq 1048576 0 relabels_per_insert 2.2859 ns_per_insert 16.7 ns_per_order 41.7 ok 1
+om twolevel 4194304 seq 0 1 -> twolevel seq 4194304 0 relabels_per_insert 2.3435 ns_per_insert 17.2 ns_per_order 57.4 ok 1
+om naive 1024 front 62 1 -> naive front 1024 62 relabels_per_insert 9.2324 ns_per_insert 19.5 ns_per_order 6.7 ok 1
+om naive 2048 front 62 1 -> naive front 2048 62 relabels_per_insert 19.5186 ns_per_insert 60.4 ns_per_order 8.1 ok 1
+om naive 4096 front 62 1 -> naive front 4096 62 relabels_per_insert 39.7056 ns_per_insert 148.0 ns_per_order 7.2 ok 1
+om naive 8192 front 62 1 -> naive front 8192 62 relabels_per_insert 81.2827 ns_per_insert 282.9 ns_per_order 7.6 ok 1
+om naive 16384 front 62 1 -> naive front 16384 62 relabels_per_insert 165.7996 ns_per_insert 561.7 ns_per_order 7.4 ok 1
+om naive 32768 front 62 1 -> naive front 32768 62 relabels_per_insert 339.4311 ns_per_insert 772.3 ns_per_order 6.9 ok 1
+om naive 65536 front 62 1 -> naive front 65536 62 relabels_per_insert 692.6251 ns_per_insert 1387.4 ns_per_order 6.8 ok 1
+bcT bcdfz 1024 front 1.1 1 32 -> bcdfz front 1024 1.1 relabels_per_insert 20.2100 ns_per_insert 187.2 ns_per_order 8.3 ok 1
+bcT bcdfz 2048 front 1.1 1 32 -> bcdfz front 2048 1.1 relabels_per_insert 24.3525 ns_per_insert 233.2 ns_per_order 6.9 ok 1
+bcT bcdfz 4096 front 1.1 1 32 -> bcdfz front 4096 1.1 relabels_per_insert 27.6423 ns_per_insert 275.8 ns_per_order 8.1 ok 1
+bcT bcdfz 8192 front 1.1 1 32 -> bcdfz front 8192 1.1 relabels_per_insert 31.6901 ns_per_insert 282.6 ns_per_order 7.0 ok 1
+bcT bcdfz 16384 front 1.1 1 32 -> bcdfz front 16384 1.1 relabels_per_insert 34.1295 ns_per_insert 334.8 ns_per_order 7.1 ok 1
+bcT bcdfz 32768 front 1.1 1 32 -> bcdfz front 32768 1.1 relabels_per_insert 37.0110 ns_per_insert 342.0 ns_per_order 7.3 ok 1
+bcT bcdfz 65536 front 1.1 1 32 -> bcdfz front 65536 1.1 relabels_per_insert 41.2820 ns_per_insert 288.8 ns_per_order 9.2 ok 1
+bcT bcdfz 131072 front 1.1 1 32 -> bcdfz front 131072 1.1 relabels_per_insert 44.2009 ns_per_insert 276.0 ns_per_order 7.2 ok 1
+bcT bcdfz 262144 front 1.1 1 32 -> bcdfz front 262144 1.1 relabels_per_insert 47.6039 ns_per_insert 310.4 ns_per_order 16.6 ok 1
+bcT bcdfz 524288 front 1.1 1 32 -> bcdfz front 524288 1.1 relabels_per_insert 51.3124 ns_per_insert 327.6 ns_per_order 22.6 ok 1
+bcT bcdfz 1048576 front 1.1 1 32 -> bcdfz front 1048576 1.1 relabels_per_insert 54.1447 ns_per_insert 347.0 ns_per_order 26.1 ok 1
+bcT bcdfz 1024 front 1.2 1 32 -> bcdfz front 1024 1.2 relabels_per_insert 14.1660 ns_per_insert 107.1 ns_per_order 6.9 ok 1
+bcT bcdfz 2048 front 1.2 1 32 -> bcdfz front 2048 1.2 relabels_per_insert 16.0132 ns_per_insert 148.6 ns_per_order 7.3 ok 1
+bcT bcdfz 4096 front 1.2 1 32 -> bcdfz front 4096 1.2 relabels_per_insert 18.9922 ns_per_insert 197.7 ns_per_order 8.1 ok 1
+bcT bcdfz 8192 front 1.2 1 32 -> bcdfz front 8192 1.2 relabels_per_insert 19.8794 ns_per_insert 149.8 ns_per_order 6.9 ok 1
+bcT bcdfz 16384 front 1.2 1 32 -> bcdfz front 16384 1.2 relabels_per_insert 21.4518 ns_per_insert 157.7 ns_per_order 6.9 ok 1
+bcT bcdfz 32768 front 1.2 1 32 -> bcdfz front 32768 1.2 relabels_per_insert 23.3832 ns_per_insert 194.9 ns_per_order 6.9 ok 1
+bcT bcdfz 65536 front 1.2 1 32 -> bcdfz front 65536 1.2 relabels_per_insert 24.8513 ns_per_insert 197.6 ns_per_order 6.7 ok 1
+bcT bcdfz 131072 front 1.2 1 32 -> bcdfz front 131072 1.2 relabels_per_insert 27.1411 ns_per_insert 189.5 ns_per_order 9.7 ok 1
+bcT bcdfz 262144 front 1.2 1 32 -> bcdfz front 262144 1.2 relabels_per_insert 28.7087 ns_per_insert 194.8 ns_per_order 24.0 ok 1
+bcT bcdfz 524288 front 1.2 1 32 -> bcdfz front 524288 1.2 relabels_per_insert 30.1982 ns_per_insert 205.0 ns_per_order 27.5 ok 1
+bcT bcdfz 1048576 front 1.2 1 32 -> bcdfz front 1048576 1.2 relabels_per_insert 31.9917 ns_per_insert 223.8 ns_per_order 26.8 ok 1
+bcT bcdfz 1024 front 1.3 1 32 -> bcdfz front 1024 1.3 relabels_per_insert 10.4785 ns_per_insert 104.2 ns_per_order 6.7 ok 1
+bcT bcdfz 2048 front 1.3 1 32 -> bcdfz front 2048 1.3 relabels_per_insert 11.6655 ns_per_insert 114.1 ns_per_order 7.8 ok 1
+bcT bcdfz 4096 front 1.3 1 32 -> bcdfz front 4096 1.3 relabels_per_insert 13.3433 ns_per_insert 162.9 ns_per_order 8.3 ok 1
+bcT bcdfz 8192 front 1.3 1 32 -> bcdfz front 8192 1.3 relabels_per_insert 14.5460 ns_per_insert 179.0 ns_per_order 7.3 ok 1
+bcT bcdfz 16384 front 1.3 1 32 -> bcdfz front 16384 1.3 relabels_per_insert 15.6332 ns_per_insert 181.0 ns_per_order 8.3 ok 1
+bcT bcdfz 32768 front 1.3 1 32 -> bcdfz front 32768 1.3 relabels_per_insert 17.4986 ns_per_insert 139.1 ns_per_order 7.5 ok 1
+bcT bcdfz 65536 front 1.3 1 32 -> bcdfz front 65536 1.3 relabels_per_insert 18.4109 ns_per_insert 149.3 ns_per_order 7.1 ok 1
+bcT bcdfz 131072 front 1.3 1 32 -> bcdfz front 131072 1.3 relabels_per_insert 19.6368 ns_per_insert 141.0 ns_per_order 9.6 ok 1
+bcT bcdfz 262144 front 1.3 1 32 -> bcdfz front 262144 1.3 relabels_per_insert 20.5625 ns_per_insert 146.7 ns_per_order 22.1 ok 1
+bcT bcdfz 524288 front 1.3 1 32 -> bcdfz front 524288 1.3 relabels_per_insert 21.9779 ns_per_insert 160.9 ns_per_order 27.8 ok 1
+bcT bcdfz 1048576 front 1.3 1 32 -> bcdfz front 1048576 1.3 relabels_per_insert 23.3815 ns_per_insert 173.7 ns_per_order 27.9 ok 1
+bcT bcdfz 1024 front 1.4 1 32 -> bcdfz front 1024 1.4 relabels_per_insert 8.3496 ns_per_insert 66.1 ns_per_order 7.0 ok 1
+bcT bcdfz 2048 front 1.4 1 32 -> bcdfz front 2048 1.4 relabels_per_insert 9.4321 ns_per_insert 95.8 ns_per_order 8.2 ok 1
+bcT bcdfz 4096 front 1.4 1 32 -> bcdfz front 4096 1.4 relabels_per_insert 10.4551 ns_per_insert 127.8 ns_per_order 7.1 ok 1
+bcT bcdfz 8192 front 1.4 1 32 -> bcdfz front 8192 1.4 relabels_per_insert 11.4838 ns_per_insert 140.2 ns_per_order 7.8 ok 1
+bcT bcdfz 16384 front 1.4 1 32 -> bcdfz front 16384 1.4 relabels_per_insert 12.4398 ns_per_insert 142.2 ns_per_order 8.7 ok 1
+bcT bcdfz 32768 front 1.4 1 32 -> bcdfz front 32768 1.4 relabels_per_insert 13.5436 ns_per_insert 116.1 ns_per_order 8.1 ok 1
+bcT bcdfz 65536 front 1.4 1 32 -> bcdfz front 65536 1.4 relabels_per_insert 14.5762 ns_per_insert 136.0 ns_per_order 6.8 ok 1
+bcT bcdfz 131072 front 1.4 1 32 -> bcdfz front 131072 1.4 relabels_per_insert 15.5580 ns_per_insert 116.7 ns_per_order 7.0 ok 1
+bcT bcdfz 262144 front 1.4 1 32 -> bcdfz front 262144 1.4 relabels_per_insert 22.5039 ns_per_insert 185.3 ns_per_order 30.5 ok 1
+bcT bcdfz 524288 front 1.4 1 32 -> bcdfz front 524288 1.4 relabels_per_insert 51.6435 ns_per_insert 499.1 ns_per_order 37.2 ok 1
+bcT bcdfz 1048576 front 1.4 1 32 -> bcdfz front 1048576 1.4 relabels_per_insert 167.0619 ns_per_insert 1492.4 ns_per_order 31.2 ok 1
+bcT bcdfz 1024 front 1.5 1 32 -> bcdfz front 1024 1.5 relabels_per_insert 7.6543 ns_per_insert 84.6 ns_per_order 8.3 ok 1
+bcT bcdfz 2048 front 1.5 1 32 -> bcdfz front 2048 1.5 relabels_per_insert 8.3232 ns_per_insert 68.5 ns_per_order 6.8 ok 1
+bcT bcdfz 4096 front 1.5 1 32 -> bcdfz front 4096 1.5 relabels_per_insert 9.5320 ns_per_insert 146.9 ns_per_order 9.0 ok 1
+bcT bcdfz 8192 front 1.5 1 32 -> bcdfz front 8192 1.5 relabels_per_insert 10.5055 ns_per_insert 131.4 ns_per_order 7.6 ok 1
+bcT bcdfz 16384 front 1.5 1 32 -> bcdfz front 16384 1.5 relabels_per_insert 11.4846 ns_per_insert 141.3 ns_per_order 7.9 ok 1
+bcT bcdfz 32768 front 1.5 1 32 -> bcdfz front 32768 1.5 relabels_per_insert 15.3430 ns_per_insert 132.2 ns_per_order 7.7 ok 1
+bcT bcdfz 65536 front 1.5 1 32 -> bcdfz front 65536 1.5 relabels_per_insert 30.4523 ns_per_insert 221.9 ns_per_order 7.2 ok 1
+bcT bcdfz 131072 front 1.5 1 32 -> bcdfz front 131072 1.5 relabels_per_insert 78.9417 ns_per_insert 507.2 ns_per_order 14.5 ok 1
+bcT bcdfz 262144 front 1.5 1 32 -> bcdfz front 262144 1.5 relabels_per_insert 258.3501 ns_per_insert 2759.4 ns_per_order 33.8 ok 1
+bcT bcdfz 524288 front 1.5 1 32 -> bcdfz front 524288 1.5 relabels_per_insert 801.5749 ns_per_insert 8469.6 ns_per_order 37.3 ok 1
+bcT bcdfz 1048576 front 1.5 1 32 -> bcdfz front 1048576 1.5 relabels_per_insert 2871.4048 ns_per_insert 27191.9 ns_per_order 33.8 ok 1
+bcT bcdfz 1024 front 1.6 1 32 -> bcdfz front 1024 1.6 relabels_per_insert 6.8350 ns_per_insert 61.2 ns_per_order 7.0 ok 1
+bcT bcdfz 2048 front 1.6 1 32 -> bcdfz front 2048 1.6 relabels_per_insert 7.9175 ns_per_insert 94.0 ns_per_order 7.5 ok 1
+bcT bcdfz 4096 front 1.6 1 32 -> bcdfz front 4096 1.6 relabels_per_insert 10.7324 ns_per_insert 135.8 ns_per_order 7.9 ok 1
+bcT bcdfz 8192 front 1.6 1 32 -> bcdfz front 8192 1.6 relabels_per_insert 18.9531 ns_per_insert 225.4 ns_per_order 7.5 ok 1
+bcT bcdfz 16384 front 1.6 1 32 -> bcdfz front 16384 1.6 relabels_per_insert 41.7489 ns_per_insert 460.4 ns_per_order 7.8 ok 1
+bcT bcdfz 32768 front 1.6 1 32 -> bcdfz front 32768 1.6 relabels_per_insert 97.4427 ns_per_insert 693.0 ns_per_order 7.5 ok 1
+bcT bcdfz 65536 front 1.6 1 32 -> bcdfz front 65536 1.6 relabels_per_insert 288.4923 ns_per_insert 1746.3 ns_per_order 8.4 ok 1
+bcT bcdfz 131072 front 1.6 1 32 -> bcdfz front 131072 1.6 relabels_per_insert 821.0440 ns_per_insert 4765.4 ns_per_order 11.0 ok 1
+bcT bcdfz 262144 front 1.6 1 32 -> bcdfz front 262144 1.6 relabels_per_insert 1972.6003 ns_per_insert 21983.0 ns_per_order 36.9 ok 1
+bcT bcdfz 524288 front 1.6 1 32 -> bcdfz front 524288 1.6 relabels_per_insert 6028.6580 ns_per_insert 70253.7 ns_per_order 36.6 ok 1
+bcT bcdfz 1048576 front 1.6 1 32 -> bcdfz front 1048576 1.6 relabels_per_insert 17529.4691 ns_per_insert 175717.1 ns_per_order 36.7 ok 1
+bcT bcdfz 1024 front 1.7 1 32 -> bcdfz front 1024 1.7 relabels_per_insert 9.9854 ns_per_insert 82.8 ns_per_order 7.0 ok 1
+bcT bcdfz 2048 front 1.7 1 32 -> bcdfz front 2048 1.7 relabels_per_insert 18.4224 ns_per_insert 155.6 ns_per_order 6.9 ok 1
+bcT bcdfz 4096 front 1.7 1 32 -> bcdfz front 4096 1.7 relabels_per_insert 34.6626 ns_per_insert 244.8 ns_per_order 7.0 ok 1
+bcT bcdfz 8192 front 1.7 1 32 -> bcdfz front 8192 1.7 relabels_per_insert 105.6625 ns_per_insert 986.8 ns_per_order 7.2 ok 1
+bcT bcdfz 16384 front 1.7 1 32 -> bcdfz front 16384 1.7 relabels_per_insert 246.1125 ns_per_insert 1647.2 ns_per_order 7.3 ok 1
+bcT bcdfz 32768 front 1.7 1 32 -> bcdfz front 32768 1.7 relabels_per_insert 508.3531 ns_per_insert 2840.1 ns_per_order 6.8 ok 1
+bcT bcdfz 65536 front 1.7 1 32 -> bcdfz front 65536 1.7 relabels_per_insert 1646.4425 ns_per_insert 9552.4 ns_per_order 7.0 ok 1
+bcT bcdfz 131072 front 1.7 1 32 -> bcdfz front 131072 1.7 relabels_per_insert 3895.9712 ns_per_insert 23297.7 ns_per_order 24.9 ok 1
+bcT bcdfz 262144 front 1.7 1 32 -> bcdfz front 262144 1.7 relabels_per_insert 8092.7356 ns_per_insert 98744.1 ns_per_order 36.9 ok 1
+bcT bcdfz 524288 front 1.7 1 32 -> bcdfz front 524288 1.7 relabels_per_insert 23502.9375 ns_per_insert 309236.9 ns_per_order 32.4 ok 1
+bcT bcdfz 1048576 front 1.7 1 32 -> bcdfz front 1048576 1.7 relabels_per_insert 60903.4164 ns_per_insert 511626.5 ns_per_order 27.7 ok 1
