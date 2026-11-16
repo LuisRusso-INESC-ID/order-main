@@ -42,4 +42,4 @@ into the PSTricks plots; it looks for this file at `../github/results_log.txt`
 ## Provenance
 
 This code was written, and the experiments were run, by Claude (Anthropic),
-a generative AI system, at the direction of the author.  See `PROVENANCE.md`.
+a generative AI system, at the direction of the author.
